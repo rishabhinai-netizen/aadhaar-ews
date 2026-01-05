@@ -1,0 +1,4 @@
+metric,weight,rationale
+enrol_total,0.3407310773009989,Based on coefficient of variation
+demo_total,0.3560534417187359,Based on coefficient of variation
+bio_total,0.3032154809802652,Based on coefficient of variation

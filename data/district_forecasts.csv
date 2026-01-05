@@ -1,0 +1,1127 @@
+state,district,forecast_period,forecast_severity_score,forecast_risk_category,forecast_enrol,forecast_demo,forecast_bio,current_trend
+100000,100000,2_weeks_ahead,21.86227956839091,Stable,48,0,0,accelerating_up
+ANDAMAN AND NICOBAR ISLANDS,NICOBARS,2_weeks_ahead,20.418823242332728,Stable,1,18,62,stable
+ANDAMAN AND NICOBAR ISLANDS,NORTH AND MIDDLE ANDAMAN,2_weeks_ahead,35.12012338851756,Stable,10,68,70,accelerating_up
+ANDAMAN AND NICOBAR ISLANDS,SOUTH ANDAMANS,2_weeks_ahead,37.7177782268906,Stable,20,288,252,stable
+ANDHRA PRADESH,ALLURI SITHARAMA RAJU,2_weeks_ahead,44.59397493029931,Stable,116,558,917,accelerating_down
+ANDHRA PRADESH,ANAKAPALLI,2_weeks_ahead,54.80469161078182,Stable,155,1521,1555,accelerating_down
+ANDHRA PRADESH,ANANTAPUR,2_weeks_ahead,69.24804073678092,Watchlist,298,3336,2659,accelerating_down
+ANDHRA PRADESH,ANNAMAYYA,2_weeks_ahead,49.895011183366925,Stable,117,1467,996,accelerating_down
+ANDHRA PRADESH,BAPATLA,2_weeks_ahead,55.739680660395415,Watchlist,148,1774,1525,accelerating_down
+ANDHRA PRADESH,CHITTOOR,2_weeks_ahead,64.71725576633432,Watchlist,219,2995,2208,accelerating_down
+ANDHRA PRADESH,EAST GODAVARI,2_weeks_ahead,54.73746698513916,Stable,113,1914,1578,accelerating_down
+ANDHRA PRADESH,ELURU,2_weeks_ahead,58.8766561337387,Watchlist,177,2028,1798,accelerating_down
+ANDHRA PRADESH,GUNTUR,2_weeks_ahead,65.87835465348533,Watchlist,247,2595,2573,accelerating_down
+ANDHRA PRADESH,KAKINADA,2_weeks_ahead,58.98269634557241,Watchlist,171,2109,1912,accelerating_down
+ANDHRA PRADESH,KONASEEMA,2_weeks_ahead,57.27728330293116,Watchlist,142,1955,1838,accelerating_down
+ANDHRA PRADESH,KRISHNA,2_weeks_ahead,54.24766495661605,Stable,134,1687,1336,accelerating_down
+ANDHRA PRADESH,KURNOOL,2_weeks_ahead,68.85839119271323,Watchlist,354,2607,2683,accelerating_down
+ANDHRA PRADESH,NANDYAL,2_weeks_ahead,64.60356635113378,Watchlist,274,2075,2413,accelerating_down
+ANDHRA PRADESH,NTR,2_weeks_ahead,61.02154139918112,Watchlist,203,2380,1917,accelerating_down
+ANDHRA PRADESH,PALNADU,2_weeks_ahead,64.22034872400008,Watchlist,327,2049,1866,accelerating_down
+ANDHRA PRADESH,PARVATHIPURAM MANYAM,2_weeks_ahead,46.354306047755195,Stable,83,954,1144,accelerating_down
+ANDHRA PRADESH,PRAKASAM,2_weeks_ahead,67.65359672811209,Watchlist,267,3180,2515,accelerating_down
+ANDHRA PRADESH,SPSR NELLORE,2_weeks_ahead,64.72918472569557,Watchlist,241,2754,2072,accelerating_down
+ANDHRA PRADESH,SRI SATHYA SAI,2_weeks_ahead,58.636345216234886,Watchlist,187,2256,1461,accelerating_down
+ANDHRA PRADESH,SRIKAKULAM,2_weeks_ahead,63.35138537514069,Watchlist,183,3084,2518,accelerating_down
+ANDHRA PRADESH,TIRUPATI,2_weeks_ahead,60.87841569056027,Watchlist,228,2013,1620,accelerating_down
+ANDHRA PRADESH,VISAKHAPATANAM,2_weeks_ahead,70.15403758654519,Emerging_Risk,288,3529,3121,accelerating_down
+ANDHRA PRADESH,VIZIANAGARAM,2_weeks_ahead,58.28634388387952,Watchlist,138,1967,2344,accelerating_down
+ANDHRA PRADESH,WEST GODAVARI,2_weeks_ahead,64.93995930260388,Watchlist,200,2923,2623,accelerating_down
+ANDHRA PRADESH,Y.S.R.,2_weeks_ahead,72.37905805351696,Emerging_Risk,370,3790,3232,accelerating_down
+ARUNACHAL PRADESH,ANJAW,2_weeks_ahead,20.64269578441873,Stable,0,29,29,accelerating_up
+ARUNACHAL PRADESH,CHANGLANG,2_weeks_ahead,33.01231786449192,Stable,5,86,85,rising
+ARUNACHAL PRADESH,DIBANG VALLEY,2_weeks_ahead,30.030848323739786,Stable,4,35,38,accelerating_up
+ARUNACHAL PRADESH,EAST KAMENG,2_weeks_ahead,28.295779132219874,Stable,5,33,36,rising
+ARUNACHAL PRADESH,EAST SIANG,2_weeks_ahead,34.97934570282711,Stable,4,117,80,accelerating_up
+ARUNACHAL PRADESH,KURUNG KUMEY,2_weeks_ahead,25.36236700172046,Stable,3,16,29,accelerating_up
+ARUNACHAL PRADESH,LEPARADA,2_weeks_ahead,22.488926398448307,Stable,2,18,12,accelerating_up
+ARUNACHAL PRADESH,LOHIT,2_weeks_ahead,33.67321074804051,Stable,10,61,43,accelerating_up
+ARUNACHAL PRADESH,LONGDING,2_weeks_ahead,25.373394059847648,Stable,2,47,27,rising
+ARUNACHAL PRADESH,LOWER SIANG,2_weeks_ahead,18.565186320952,Stable,0,23,8,rising
+ARUNACHAL PRADESH,LOWER SUBANSIRI,2_weeks_ahead,26.08708357104675,Stable,2,52,38,accelerating_up
+ARUNACHAL PRADESH,NAMSAI,2_weeks_ahead,34.03055122897206,Stable,19,133,149,stable
+ARUNACHAL PRADESH,PAKKE KESSANG,2_weeks_ahead,13.528591662292829,Stable,0,6,6,stable
+ARUNACHAL PRADESH,PAPUM PARE,2_weeks_ahead,36.6650604642771,Stable,12,117,103,rising
+ARUNACHAL PRADESH,SHI YOMI,2_weeks_ahead,18.30796906140778,Stable,0,14,17,accelerating_up
+ARUNACHAL PRADESH,TAWANG,2_weeks_ahead,29.586082542197477,Stable,4,44,71,rising
+ARUNACHAL PRADESH,TIRAP,2_weeks_ahead,23.54704389152511,Stable,1,45,26,accelerating_up
+ARUNACHAL PRADESH,UPPER SIANG,2_weeks_ahead,23.89898727032962,Stable,0,26,27,accelerating_up
+ARUNACHAL PRADESH,UPPER SUBANSIRI,2_weeks_ahead,28.397238530519715,Stable,5,51,80,accelerating_up
+ARUNACHAL PRADESH,WEST KAMENG,2_weeks_ahead,30.208908021151725,Stable,5,71,168,stable
+ARUNACHAL PRADESH,WEST SIANG,2_weeks_ahead,29.877179819192456,Stable,4,57,47,rising
+ASSAM,BAJALI,2_weeks_ahead,40.41732002037555,Stable,16,240,149,rising
+ASSAM,BAKSA,2_weeks_ahead,44.42090422260278,Stable,122,928,451,declining
+ASSAM,BARPETA,2_weeks_ahead,62.96216282172775,Watchlist,268,2733,1597,accelerating_down
+ASSAM,BISWANATH,2_weeks_ahead,46.19303059085632,Stable,81,823,362,stable
+ASSAM,BONGAIGAON,2_weeks_ahead,42.917827871911115,Stable,80,917,666,accelerating_down
+ASSAM,CACHAR,2_weeks_ahead,62.92506643778626,Watchlist,257,2165,1638,accelerating_down
+ASSAM,CHARAIDEO,2_weeks_ahead,39.97293965912798,Stable,40,385,151,stable
+ASSAM,CHIRANG,2_weeks_ahead,44.582059890635854,Stable,93,949,764,accelerating_down
+ASSAM,DARRANG,2_weeks_ahead,49.723284245551625,Stable,239,1031,593,accelerating_down
+ASSAM,DHEMAJI,2_weeks_ahead,48.01817152005896,Stable,116,676,423,stable
+ASSAM,DHUBRI,2_weeks_ahead,65.8368083440268,Watchlist,331,3618,1405,accelerating_down
+ASSAM,DIBRUGARH,2_weeks_ahead,42.163647563153155,Stable,101,879,336,declining
+ASSAM,DIMA HASAO,2_weeks_ahead,35.25113282742044,Stable,20,166,97,stable
+ASSAM,GOALPARA,2_weeks_ahead,49.448974863095856,Stable,179,1238,691,accelerating_down
+ASSAM,GOLAGHAT,2_weeks_ahead,45.40243809054329,Stable,137,896,642,accelerating_down
+ASSAM,HAILAKANDI,2_weeks_ahead,52.32897839527958,Stable,139,1004,695,stable
+ASSAM,HOJAI,2_weeks_ahead,52.710631749826604,Stable,151,1398,1124,accelerating_down
+ASSAM,JORHAT,2_weeks_ahead,44.55283446914028,Stable,91,618,301,stable
+ASSAM,KAMRUP,2_weeks_ahead,54.98756500853268,Stable,229,1856,758,accelerating_down
+ASSAM,KAMRUP METRO,2_weeks_ahead,46.992861699279885,Stable,148,1220,516,accelerating_down
+ASSAM,KARBI ANGLONG,2_weeks_ahead,47.23061773339269,Stable,92,642,712,stable
+ASSAM,KARIMGANJ,2_weeks_ahead,67.2320662319332,Watchlist,386,2710,1667,accelerating_down
+ASSAM,KOKRAJHAR,2_weeks_ahead,45.58302820300778,Stable,101,1263,501,accelerating_down
+ASSAM,LAKHIMPUR,2_weeks_ahead,51.55989004817348,Stable,209,1151,993,accelerating_down
+ASSAM,MAJULI,2_weeks_ahead,39.341996218918254,Stable,22,199,74,rising
+ASSAM,MARIGAON,2_weeks_ahead,54.53908633392875,Stable,222,2172,730,accelerating_down
+ASSAM,NAGAON,2_weeks_ahead,71.46282383010443,Emerging_Risk,359,4118,3965,accelerating_down
+ASSAM,NALBARI,2_weeks_ahead,48.50450192067121,Stable,116,908,404,stable
+ASSAM,SIVASAGAR,2_weeks_ahead,45.35235213185442,Stable,35,467,325,rising
+ASSAM,SONITPUR,2_weeks_ahead,55.17147631961216,Watchlist,345,1583,584,accelerating_down
+ASSAM,SOUTH SALMARA MANCACHAR,2_weeks_ahead,40.47344249163519,Stable,55,1100,293,declining
+ASSAM,TINSUKIA,2_weeks_ahead,53.80393296660845,Stable,278,1559,453,accelerating_down
+ASSAM,UDALGURI,2_weeks_ahead,46.298649551746834,Stable,125,1097,672,accelerating_down
+ASSAM,WEST KARBI ANGLONG,2_weeks_ahead,44.41612048820196,Stable,37,306,319,rising
+Andhra Pradesh,Alluri Sitharama Raju,2_weeks_ahead,30.768087913226967,Stable,6,36,20,accelerating_up
+Andhra Pradesh,Bapatla,2_weeks_ahead,14.807473919879744,Stable,0,12,6,stable
+Andhra Pradesh,Chittoor,2_weeks_ahead,7.84300539034799,Stable,0,1,1,accelerating_down
+Andhra Pradesh,East Godavari,2_weeks_ahead,34.863358540590276,Stable,18,102,139,stable
+Andhra Pradesh,Eluru,2_weeks_ahead,15.904262860791901,Stable,0,18,5,stable
+Andhra Pradesh,Hyderabad,2_weeks_ahead,14.63388823773904,Stable,0,9,13,stable
+Andhra Pradesh,Khammam,2_weeks_ahead,18.02247073191308,Stable,1,10,13,stable
+Andhra Pradesh,Krishna,2_weeks_ahead,22.722578035811512,Stable,1,29,30,stable
+Andhra Pradesh,Kurnool,2_weeks_ahead,33.03631532235276,Stable,5,71,131,rising
+Andhra Pradesh,Mahbubnagar,2_weeks_ahead,3.4519915471336593,Stable,0,0,0,stable
+Andhra Pradesh,Nalgonda,2_weeks_ahead,22.459306497690743,Stable,0,18,12,accelerating_up
+Andhra Pradesh,Nellore,2_weeks_ahead,30.279996102813737,Stable,3,37,41,accelerating_up
+Andhra Pradesh,Prakasam,2_weeks_ahead,29.999611474221282,Stable,3,34,38,accelerating_up
+Andhra Pradesh,Rangareddi,2_weeks_ahead,15.389671277028846,Stable,0,11,11,stable
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2_weeks_ahead,11.632961575908572,Stable,0,5,3,stable
+Andhra Pradesh,Warangal,2_weeks_ahead,21.394332649900598,Stable,0,44,38,stable
+Andhra Pradesh,West Godavari,2_weeks_ahead,26.46246065710933,Stable,2,13,27,accelerating_up
+Arunachal Pradesh,Kamle,2_weeks_ahead,11.742487016347264,Stable,0,2,2,rising
+Arunachal Pradesh,Longding,2_weeks_ahead,12.285981354142113,Stable,0,6,7,stable
+Arunachal Pradesh,Tirap,2_weeks_ahead,19.27531097367161,Stable,1,13,13,accelerating_up
+Arunachal Pradesh,Upper Siang,2_weeks_ahead,18.038586777010014,Stable,0,13,26,rising
+Arunachal Pradesh,West Siang,2_weeks_ahead,10.284697341873786,Stable,0,1,3,stable
+Assam,Cachar,2_weeks_ahead,9.158120273216376,Stable,0,2,2,stable
+Assam,Dhemaji,2_weeks_ahead,36.356109219748745,Stable,21,78,49,accelerating_up
+Assam,Dibrugarh,2_weeks_ahead,21.183511865610622,Stable,1,14,3,accelerating_up
+Assam,Goalpara,2_weeks_ahead,30.491344881703903,Stable,5,51,30,accelerating_up
+Assam,Jorhat,2_weeks_ahead,5.9851698901942,Stable,0,1,2,stable
+Assam,Lakhimpur,2_weeks_ahead,17.984704896889433,Stable,1,8,12,accelerating_up
+Assam,Sonitpur,2_weeks_ahead,6.952405599008377,Stable,0,1,0,accelerating_down
+BIHAR,ARARIA,2_weeks_ahead,77.74404841742408,Emerging_Risk,675,5124,3271,accelerating_down
+BIHAR,ARWAL,2_weeks_ahead,53.9859192760705,Stable,209,1551,825,accelerating_down
+BIHAR,AURANGABAD,2_weeks_ahead,71.38536212541601,Emerging_Risk,487,3659,1937,accelerating_down
+BIHAR,BANKA,2_weeks_ahead,72.73701422476371,Emerging_Risk,560,3618,2039,accelerating_down
+BIHAR,BEGUSARAI,2_weeks_ahead,77.10473557548464,Emerging_Risk,747,4779,2992,accelerating_down
+BIHAR,BHAGALPUR,2_weeks_ahead,75.24480486915762,Emerging_Risk,543,4390,2803,accelerating_down
+BIHAR,BHOJPUR,2_weeks_ahead,73.42735048653034,Emerging_Risk,676,4374,2029,accelerating_down
+BIHAR,BUXAR,2_weeks_ahead,63.00088254196832,Watchlist,318,2673,1154,accelerating_down
+BIHAR,DARBHANGA,2_weeks_ahead,79.30040930677842,Emerging_Risk,735,5815,4865,accelerating_down
+BIHAR,GAYA,2_weeks_ahead,78.86025513410499,Emerging_Risk,1078,6162,3442,accelerating_down
+BIHAR,GOPALGANJ,2_weeks_ahead,73.45175773945438,Emerging_Risk,534,4392,2396,accelerating_down
+BIHAR,JAMUI,2_weeks_ahead,65.0848701656812,Watchlist,296,2096,2729,accelerating_down
+BIHAR,JEHANABAD,2_weeks_ahead,59.92446920393166,Watchlist,158,1135,648,rising
+BIHAR,KAIMUR (BHABUA),2_weeks_ahead,60.88368079312238,Watchlist,228,2536,1208,accelerating_down
+BIHAR,KATIHAR,2_weeks_ahead,79.30594881151845,Emerging_Risk,707,5728,4562,accelerating_down
+BIHAR,KHAGARIA,2_weeks_ahead,69.96045230227932,Watchlist,492,2778,2066,accelerating_down
+BIHAR,KISHANGANJ,2_weeks_ahead,70.89739417790949,Emerging_Risk,320,2880,3920,accelerating_down
+BIHAR,LAKHISARAI,2_weeks_ahead,53.86084064005794,Stable,178,1592,967,accelerating_down
+BIHAR,MADHEPURA,2_weeks_ahead,71.1847208817784,Emerging_Risk,461,2883,2397,accelerating_down
+BIHAR,MADHUBANI,2_weeks_ahead,80.93657321267993,Emerging_Risk,954,6284,5679,accelerating_down
+BIHAR,MUNGER,2_weeks_ahead,56.700688246913565,Watchlist,200,1810,1019,accelerating_down
+BIHAR,MUZAFFARPUR,2_weeks_ahead,79.73814599571082,Emerging_Risk,780,7242,3961,accelerating_down
+BIHAR,NALANDA,2_weeks_ahead,71.18875301679589,Emerging_Risk,472,4275,2292,accelerating_down
+BIHAR,NAWADA,2_weeks_ahead,69.90633794096232,Watchlist,525,3585,1966,accelerating_down
+BIHAR,PASHCHIM CHAMPARAN,2_weeks_ahead,80.27606879250665,Emerging_Risk,1039,7492,4165,accelerating_down
+BIHAR,PATNA,2_weeks_ahead,80.27777934837214,Emerging_Risk,900,9388,3853,accelerating_down
+BIHAR,PURBI CHAMPARAN,2_weeks_ahead,80.96639074037346,Emerging_Risk,1084,9044,4678,accelerating_down
+BIHAR,PURNIA,2_weeks_ahead,78.6320783769418,Emerging_Risk,705,5322,3974,accelerating_down
+BIHAR,ROHTAS,2_weeks_ahead,72.45631353776145,Emerging_Risk,449,4753,2268,accelerating_down
+BIHAR,SAHARSA,2_weeks_ahead,71.4501849169463,Emerging_Risk,512,2518,2521,accelerating_down
+BIHAR,SAMASTIPUR,2_weeks_ahead,80.12200297995042,Emerging_Risk,981,7094,3837,accelerating_down
+BIHAR,SARAN,2_weeks_ahead,79.43397292625912,Emerging_Risk,1051,6544,3529,accelerating_down
+BIHAR,SHEIKHPURA,2_weeks_ahead,55.96670405383435,Watchlist,154,1022,935,stable
+BIHAR,SHEOHAR,2_weeks_ahead,56.546987304027205,Watchlist,169,659,534,rising
+BIHAR,SITAMARHI,2_weeks_ahead,79.65270523970044,Emerging_Risk,906,6324,4157,accelerating_down
+BIHAR,SIWAN,2_weeks_ahead,75.88670712256611,Emerging_Risk,576,5348,2819,accelerating_down
+BIHAR,SUPAUL,2_weeks_ahead,72.94250856261095,Emerging_Risk,523,3124,2633,accelerating_down
+BIHAR,VAISHALI,2_weeks_ahead,78.90140360315148,Emerging_Risk,788,5828,3614,accelerating_down
+Bihar,Arwal,2_weeks_ahead,17.216978494144627,Stable,0,4,3,accelerating_up
+Bihar,Aurangabad,2_weeks_ahead,29.751698945481383,Stable,3,78,27,rising
+Bihar,Banka,2_weeks_ahead,41.27070051049384,Stable,26,220,99,accelerating_up
+Bihar,Begusarai,2_weeks_ahead,37.7213361185095,Stable,16,110,62,accelerating_up
+Bihar,Bhagalpur,2_weeks_ahead,41.6832502630689,Stable,22,260,136,accelerating_up
+Bihar,Bhojpur,2_weeks_ahead,28.488659810753933,Stable,5,24,18,accelerating_up
+Bihar,East Champaran,2_weeks_ahead,16.052797862716822,Stable,0,22,7,stable
+Bihar,Gaya,2_weeks_ahead,4.621511730885714,Stable,0,2,0,stable
+Bihar,Jamui,2_weeks_ahead,40.44746832037812,Stable,17,189,166,accelerating_up
+Bihar,Jehanabad,2_weeks_ahead,32.70938148626743,Stable,6,68,28,accelerating_up
+Bihar,Khagaria,2_weeks_ahead,27.22141768190405,Stable,3,17,27,accelerating_up
+Bihar,Kishanganj,2_weeks_ahead,40.637967976028605,Stable,33,231,537,stable
+Bihar,Lakhisarai,2_weeks_ahead,32.58809832967907,Stable,12,57,23,accelerating_up
+Bihar,Madhepura,2_weeks_ahead,48.8469133628168,Stable,92,342,298,accelerating_up
+Bihar,Munger,2_weeks_ahead,41.72289917390175,Stable,20,236,154,accelerating_up
+Bihar,Muzaffarpur,2_weeks_ahead,41.66200423796263,Stable,28,246,128,accelerating_up
+Bihar,Nalanda,2_weeks_ahead,23.366266003851276,Stable,1,16,14,accelerating_up
+Bihar,Nawada,2_weeks_ahead,16.96072811991524,Stable,1,10,8,rising
+Bihar,Patna,2_weeks_ahead,43.07808288212702,Stable,32,384,144,accelerating_up
+Bihar,Purnea,2_weeks_ahead,3.790700956569852,Stable,0,0,0,stable
+Bihar,Purnia,2_weeks_ahead,42.722972817195995,Stable,33,220,203,accelerating_up
+Bihar,Saharsa,2_weeks_ahead,31.738804086401306,Stable,13,28,20,accelerating_up
+Bihar,Samastipur,2_weeks_ahead,33.79828034455438,Stable,8,83,37,accelerating_up
+Bihar,Saran,2_weeks_ahead,31.14237275336296,Stable,5,47,31,accelerating_up
+Bihar,Sheikhpura,2_weeks_ahead,14.650616028625294,Stable,0,14,11,accelerating_down
+Bihar,Sitamarhi,2_weeks_ahead,22.95895070039697,Stable,2,9,18,accelerating_up
+Bihar,Vaishali,2_weeks_ahead,36.446752942046814,Stable,17,88,57,accelerating_up
+Bihar,West Champaran,2_weeks_ahead,28.719993965674774,Stable,3,36,20,accelerating_up
+CHANDIGARH,CHANDIGARH,2_weeks_ahead,51.12344013983165,Stable,131,1834,685,accelerating_down
+CHHATTISGARH,BALOD,2_weeks_ahead,56.74312707263763,Watchlist,91,1618,3014,accelerating_down
+CHHATTISGARH,BALODA BAZAR,2_weeks_ahead,68.42660591478307,Watchlist,199,3939,4701,accelerating_down
+CHHATTISGARH,BALRAMPUR,2_weeks_ahead,63.3506127739183,Watchlist,220,1855,2703,accelerating_down
+CHHATTISGARH,BASTAR,2_weeks_ahead,54.612486216923024,Stable,155,454,552,rising
+CHHATTISGARH,BEMETARA,2_weeks_ahead,60.5726569924149,Watchlist,130,1895,4008,accelerating_down
+CHHATTISGARH,BIJAPUR,2_weeks_ahead,42.254449085720715,Stable,50,165,147,accelerating_up
+CHHATTISGARH,BILASPUR,2_weeks_ahead,70.29120036730627,Emerging_Risk,242,3613,5663,accelerating_down
+CHHATTISGARH,DANTEWADA,2_weeks_ahead,50.5957610168078,Stable,122,437,1188,stable
+CHHATTISGARH,DHAMTARI,2_weeks_ahead,51.55666683331584,Stable,80,1134,2461,accelerating_down
+CHHATTISGARH,DURG,2_weeks_ahead,67.85367130601361,Watchlist,209,2847,5913,accelerating_down
+CHHATTISGARH,GARIYABAND,2_weeks_ahead,50.77200007739221,Stable,70,1306,2133,accelerating_down
+CHHATTISGARH,GAURELLA PENDRA MARWAHI,2_weeks_ahead,47.55872992537931,Stable,45,1681,1095,accelerating_down
+CHHATTISGARH,JANJGIR-CHAMPA,2_weeks_ahead,71.09993207279093,Emerging_Risk,224,4762,5373,accelerating_down
+CHHATTISGARH,JASHPUR,2_weeks_ahead,58.19151854576014,Watchlist,143,2035,2252,accelerating_down
+CHHATTISGARH,KABIRDHAM,2_weeks_ahead,63.38283561237652,Watchlist,147,2578,4314,accelerating_down
+CHHATTISGARH,KANKER,2_weeks_ahead,48.591004054434364,Stable,82,1270,1363,accelerating_down
+CHHATTISGARH,KONDAGAON,2_weeks_ahead,61.56573527173257,Watchlist,229,1994,2159,accelerating_down
+CHHATTISGARH,KORBA,2_weeks_ahead,62.27991197858162,Watchlist,162,2472,2830,accelerating_down
+CHHATTISGARH,KOREA,2_weeks_ahead,56.221926506275054,Watchlist,104,1818,2377,accelerating_down
+CHHATTISGARH,MAHASAMUND,2_weeks_ahead,62.085469617265346,Watchlist,121,2894,3151,accelerating_down
+CHHATTISGARH,MUNGELI,2_weeks_ahead,64.13183781617616,Watchlist,149,2564,3916,accelerating_down
+CHHATTISGARH,NARAYANPUR,2_weeks_ahead,43.17227368477472,Stable,43,366,777,stable
+CHHATTISGARH,RAIGARH,2_weeks_ahead,66.67114357981964,Watchlist,149,4171,4998,accelerating_down
+CHHATTISGARH,RAIPUR,2_weeks_ahead,80.74761188971961,Emerging_Risk,972,7636,13109,accelerating_down
+CHHATTISGARH,RAJNANDGAON,2_weeks_ahead,69.18082490476414,Watchlist,217,4785,4455,accelerating_down
+CHHATTISGARH,SUKMA,2_weeks_ahead,43.62938840506769,Stable,23,276,486,accelerating_up
+CHHATTISGARH,SURAJPUR,2_weeks_ahead,58.50969153187505,Watchlist,146,1856,2444,accelerating_down
+CHHATTISGARH,SURGUJA,2_weeks_ahead,65.16306017627984,Watchlist,141,3636,4105,accelerating_down
+Chhattisgarh,Baloda Bazar,2_weeks_ahead,41.06349424024768,Stable,11,309,278,rising
+Chhattisgarh,Bastar,2_weeks_ahead,36.63009107083996,Stable,14,97,92,accelerating_up
+Chhattisgarh,Bilaspur,2_weeks_ahead,28.745567195748187,Stable,1,47,123,rising
+Chhattisgarh,Dakshin Bastar Dantewada,2_weeks_ahead,32.22959764627382,Stable,8,48,39,accelerating_up
+Chhattisgarh,Dantewada,2_weeks_ahead,18.45222727707955,Stable,1,6,15,accelerating_up
+Chhattisgarh,Korba,2_weeks_ahead,32.839929966647425,Stable,5,74,128,rising
+Chhattisgarh,Raipur,2_weeks_ahead,40.78646579657042,Stable,17,224,910,stable
+Chhattisgarh,Sukma,2_weeks_ahead,45.27077850444307,Stable,47,325,444,accelerating_up
+DELHI,CENTRAL,2_weeks_ahead,50.71022887003645,Stable,128,1402,1106,accelerating_down
+DELHI,EAST,2_weeks_ahead,56.92557928030367,Watchlist,178,2330,1018,accelerating_down
+DELHI,NEW DELHI,2_weeks_ahead,52.08961430541084,Stable,154,1379,1006,accelerating_down
+DELHI,NORTH,2_weeks_ahead,70.02371460345347,Emerging_Risk,334,2728,3148,accelerating_down
+DELHI,NORTH EAST,2_weeks_ahead,71.43503348921543,Emerging_Risk,336,3159,3571,accelerating_down
+DELHI,NORTH WEST,2_weeks_ahead,72.60296258813969,Emerging_Risk,401,3659,3101,accelerating_down
+DELHI,SHAHDARA,2_weeks_ahead,47.52716506726397,Stable,92,977,1174,accelerating_down
+DELHI,SOUTH,2_weeks_ahead,71.26167466824374,Emerging_Risk,386,3633,2422,accelerating_down
+DELHI,SOUTH EAST,2_weeks_ahead,47.70786563896768,Stable,133,1112,647,declining
+DELHI,SOUTH WEST,2_weeks_ahead,52.64707573740396,Stable,148,1688,875,accelerating_down
+DELHI,WEST,2_weeks_ahead,75.6901142111228,Emerging_Risk,446,5077,3468,accelerating_down
+GOA,NORTH GOA,2_weeks_ahead,42.97922506103697,Stable,43,631,577,stable
+GOA,SOUTH GOA,2_weeks_ahead,39.419343254214375,Stable,36,833,621,accelerating_down
+GUJARAT,AHMADABAD,2_weeks_ahead,80.44124732301808,Emerging_Risk,810,10128,7404,accelerating_down
+GUJARAT,AMRELI,2_weeks_ahead,52.62205120889842,Stable,191,1208,1094,accelerating_down
+GUJARAT,ANAND,2_weeks_ahead,63.14934872606497,Watchlist,315,1759,2014,accelerating_down
+GUJARAT,ARVALLI,2_weeks_ahead,53.27040479634495,Stable,185,1074,1374,accelerating_down
+GUJARAT,BANAS KANTHA,2_weeks_ahead,75.67354011577382,Emerging_Risk,653,3315,3798,accelerating_down
+GUJARAT,BHARUCH,2_weeks_ahead,60.15345891974405,Watchlist,233,1731,1577,accelerating_down
+GUJARAT,BHAVNAGAR,2_weeks_ahead,66.37958305632615,Watchlist,333,2305,2038,accelerating_down
+GUJARAT,BOTAD,2_weeks_ahead,43.73178324497912,Stable,55,533,525,stable
+GUJARAT,CHHOTAUDEPUR,2_weeks_ahead,46.79584679406718,Stable,139,768,975,accelerating_down
+GUJARAT,DANG,2_weeks_ahead,38.87293655450276,Stable,35,175,358,stable
+GUJARAT,DEVBHUMI DWARKA,2_weeks_ahead,46.06895497531048,Stable,103,837,1032,declining
+GUJARAT,DOHAD,2_weeks_ahead,61.52222217738317,Watchlist,268,1293,2087,accelerating_down
+GUJARAT,GANDHINAGAR,2_weeks_ahead,53.32982422573166,Stable,190,1504,1028,accelerating_down
+GUJARAT,GIR SOMNATH,2_weeks_ahead,54.91552563039095,Stable,170,1058,1896,accelerating_down
+GUJARAT,JAMNAGAR,2_weeks_ahead,57.077829344179264,Watchlist,184,1798,1295,accelerating_down
+GUJARAT,JUNAGADH,2_weeks_ahead,56.75812044840864,Watchlist,206,1316,1590,accelerating_down
+GUJARAT,KACHCHH,2_weeks_ahead,66.94240778101035,Watchlist,323,2373,2256,accelerating_down
+GUJARAT,KHEDA,2_weeks_ahead,61.43042381254225,Watchlist,237,1761,1860,accelerating_down
+GUJARAT,MAHESANA,2_weeks_ahead,50.43285876227296,Stable,159,1043,1119,accelerating_down
+GUJARAT,MAHISAGAR,2_weeks_ahead,48.85568435460373,Stable,125,867,1355,accelerating_down
+GUJARAT,MORBI,2_weeks_ahead,50.89235558378552,Stable,179,1071,893,accelerating_down
+GUJARAT,NARMADA,2_weeks_ahead,40.485289227287296,Stable,71,497,634,declining
+GUJARAT,NAVSARI,2_weeks_ahead,44.86227049758841,Stable,80,1116,747,accelerating_down
+GUJARAT,PANCH MAHALS,2_weeks_ahead,55.05118637962497,Watchlist,189,1061,1777,accelerating_down
+GUJARAT,PATAN,2_weeks_ahead,53.062022739481506,Stable,147,1294,1403,accelerating_down
+GUJARAT,PORBANDAR,2_weeks_ahead,39.084174298449526,Stable,62,611,443,accelerating_down
+GUJARAT,RAJKOT,2_weeks_ahead,69.99760002599103,Watchlist,321,3823,2500,accelerating_down
+GUJARAT,SABAR KANTHA,2_weeks_ahead,52.20273869680204,Stable,149,1321,1161,accelerating_down
+GUJARAT,SURAT,2_weeks_ahead,79.86045973506654,Emerging_Risk,651,9595,4580,accelerating_down
+GUJARAT,SURENDRANAGAR,2_weeks_ahead,52.62536247062226,Stable,201,1223,1139,accelerating_down
+GUJARAT,TAPI,2_weeks_ahead,39.57920997312289,Stable,60,459,731,accelerating_down
+GUJARAT,VADODARA,2_weeks_ahead,72.50823137914072,Emerging_Risk,399,3608,3308,accelerating_down
+GUJARAT,VALSAD,2_weeks_ahead,59.94034829243691,Watchlist,288,1479,1378,accelerating_down
+Goa,South Goa,2_weeks_ahead,10.751386354695773,Stable,0,2,3,stable
+Gujarat,Ahmadabad,2_weeks_ahead,24.378242507548215,Stable,1,15,18,accelerating_up
+Gujarat,Ahmedabad,2_weeks_ahead,45.15456150811063,Stable,36,399,342,rising
+Gujarat,Amreli,2_weeks_ahead,37.351106200641716,Stable,14,92,90,accelerating_up
+Gujarat,Anand,2_weeks_ahead,10.524516406959622,Stable,0,3,3,stable
+Gujarat,Bharuch,2_weeks_ahead,10.904040019392982,Stable,0,2,2,stable
+Gujarat,Bhavnagar,2_weeks_ahead,15.199291546243671,Stable,0,6,10,stable
+Gujarat,Botad,2_weeks_ahead,18.602729916624735,Stable,1,5,2,accelerating_up
+Gujarat,Chhotaudepur,2_weeks_ahead,25.79009247875344,Stable,1,16,22,accelerating_up
+Gujarat,Gandhinagar,2_weeks_ahead,28.40124806528804,Stable,3,31,19,accelerating_up
+Gujarat,Gir Somnath,2_weeks_ahead,31.509438239868313,Stable,5,25,77,accelerating_up
+Gujarat,Jamnagar,2_weeks_ahead,9.121421362170594,Stable,0,1,0,stable
+Gujarat,Junagadh,2_weeks_ahead,35.648607297991504,Stable,7,62,110,accelerating_up
+Gujarat,Kachchh,2_weeks_ahead,36.74856417267648,Stable,23,73,68,rising
+Gujarat,Mahesana,2_weeks_ahead,43.75943168050258,Stable,100,816,764,accelerating_down
+Gujarat,Mahisagar,2_weeks_ahead,28.937664418814542,Stable,3,20,49,accelerating_up
+Gujarat,Narmada,2_weeks_ahead,32.673335609294796,Stable,6,47,47,accelerating_up
+Gujarat,Navsari,2_weeks_ahead,22.03281364105949,Stable,1,32,21,stable
+Gujarat,Panchmahals,2_weeks_ahead,25.762004900630668,Stable,1,68,93,stable
+Gujarat,Porbandar,2_weeks_ahead,20.0725667007809,Stable,1,19,22,stable
+Gujarat,Rajkot,2_weeks_ahead,32.627248488531905,Stable,6,57,49,accelerating_up
+Gujarat,Surat,2_weeks_ahead,26.403249664986163,Stable,2,67,39,stable
+Gujarat,Surendra Nagar,2_weeks_ahead,39.96273890431888,Stable,45,315,284,stable
+Gujarat,Surendranagar,2_weeks_ahead,13.057795229320233,Stable,0,6,2,stable
+Gujarat,Tapi,2_weeks_ahead,18.175946972097986,Stable,1,8,15,stable
+Gujarat,Vadodara,2_weeks_ahead,32.81071923664791,Stable,3,91,62,accelerating_up
+HARYANA,AMBALA,2_weeks_ahead,51.1298682026539,Stable,139,1042,1361,accelerating_down
+HARYANA,BHIWANI,2_weeks_ahead,52.99910044018317,Stable,163,1012,1637,accelerating_down
+HARYANA,CHARKI DADRI,2_weeks_ahead,44.17629052403787,Stable,54,637,554,stable
+HARYANA,FARIDABAD,2_weeks_ahead,68.82014538631516,Watchlist,284,3407,2585,accelerating_down
+HARYANA,FATEHABAD,2_weeks_ahead,51.72075225176408,Stable,144,990,1534,accelerating_down
+HARYANA,GURUGRAM,2_weeks_ahead,62.64465950794108,Watchlist,221,2911,1516,accelerating_down
+HARYANA,HISAR,2_weeks_ahead,58.37388677327104,Watchlist,201,1326,2068,accelerating_down
+HARYANA,JHAJJAR,2_weeks_ahead,47.99137916481151,Stable,117,839,1156,accelerating_down
+HARYANA,JIND,2_weeks_ahead,54.740160865830084,Stable,167,1094,2112,accelerating_down
+HARYANA,KAITHAL,2_weeks_ahead,48.16821367576165,Stable,126,751,1496,accelerating_down
+HARYANA,KARNAL,2_weeks_ahead,57.792690486410734,Watchlist,222,1161,1969,accelerating_down
+HARYANA,KURUKSHETRA,2_weeks_ahead,46.82895697363258,Stable,102,707,1399,accelerating_down
+HARYANA,MAHENDRAGARH,2_weeks_ahead,50.10593743912377,Stable,149,862,1313,accelerating_down
+HARYANA,NUH,2_weeks_ahead,66.06511270938802,Watchlist,399,1920,1870,accelerating_down
+HARYANA,PALWAL,2_weeks_ahead,55.87695932152825,Watchlist,234,1442,1428,accelerating_down
+HARYANA,PANCHKULA,2_weeks_ahead,45.84899545566504,Stable,64,734,598,stable
+HARYANA,PANIPAT,2_weeks_ahead,55.220420596809475,Watchlist,168,1336,1694,accelerating_down
+HARYANA,REWARI,2_weeks_ahead,48.214195153306854,Stable,113,1024,1138,accelerating_down
+HARYANA,ROHTAK,2_weeks_ahead,50.506275289385286,Stable,138,811,1542,accelerating_down
+HARYANA,SIRSA,2_weeks_ahead,58.19583129426555,Watchlist,175,1546,2171,accelerating_down
+HARYANA,SONIPAT,2_weeks_ahead,56.14213698431755,Watchlist,190,1382,1604,accelerating_down
+HARYANA,YAMUNANAGAR,2_weeks_ahead,57.72220235466315,Watchlist,176,1419,2026,accelerating_down
+HIMACHAL PRADESH,BILASPUR,2_weeks_ahead,40.989161539014496,Stable,51,265,380,stable
+HIMACHAL PRADESH,CHAMBA,2_weeks_ahead,46.77719337596991,Stable,75,698,588,stable
+HIMACHAL PRADESH,HAMIRPUR,2_weeks_ahead,42.40201658966411,Stable,58,328,486,stable
+HIMACHAL PRADESH,KANGRA,2_weeks_ahead,55.498538795923245,Watchlist,156,1258,1890,accelerating_down
+HIMACHAL PRADESH,KINNAUR,2_weeks_ahead,33.52295669364082,Stable,7,55,59,accelerating_up
+HIMACHAL PRADESH,KULLU,2_weeks_ahead,41.473904282301675,Stable,48,406,390,stable
+HIMACHAL PRADESH,LAHUL AND SPITI,2_weeks_ahead,30.73238281811938,Stable,3,35,59,accelerating_up
+HIMACHAL PRADESH,MANDI,2_weeks_ahead,43.158943193216295,Stable,106,492,832,declining
+HIMACHAL PRADESH,SHIMLA,2_weeks_ahead,45.77472555891538,Stable,69,694,634,stable
+HIMACHAL PRADESH,SIRMAUR,2_weeks_ahead,43.9615644480918,Stable,61,512,464,stable
+HIMACHAL PRADESH,SOLAN,2_weeks_ahead,43.30888012303774,Stable,49,418,619,stable
+HIMACHAL PRADESH,UNA,2_weeks_ahead,42.563757005199406,Stable,54,325,621,stable
+Haryana,Ambala,2_weeks_ahead,23.098218517267668,Stable,1,29,21,rising
+Haryana,Bhiwani,2_weeks_ahead,22.607566644979947,Stable,2,8,14,accelerating_up
+Haryana,Panchkula,2_weeks_ahead,16.129541031710982,Stable,0,11,5,rising
+Haryana,Yamuna Nagar,2_weeks_ahead,14.452674618294695,Stable,0,6,14,stable
+Himachal Pradesh,Hamirpur,2_weeks_ahead,4.063452084645933,Stable,0,0,1,stable
+Himachal Pradesh,Kangra,2_weeks_ahead,21.624615820385852,Stable,1,22,36,stable
+Himachal Pradesh,Kullu,2_weeks_ahead,8.026467173417059,Stable,0,1,0,stable
+Himachal Pradesh,Mandi,2_weeks_ahead,35.39655168925207,Stable,14,134,156,stable
+Himachal Pradesh,Shimla,2_weeks_ahead,9.180456202104708,Stable,0,1,1,stable
+Himachal Pradesh,Sirmaur,2_weeks_ahead,13.435118083692124,Stable,1,5,3,stable
+JAMMU AND KASHMIR,ANANTNAG,2_weeks_ahead,55.61681768758788,Watchlist,167,1076,2368,accelerating_down
+JAMMU AND KASHMIR,BANDIPORA,2_weeks_ahead,44.9496298434306,Stable,76,408,591,stable
+JAMMU AND KASHMIR,BARAMULLA,2_weeks_ahead,57.98777163053,Watchlist,255,1231,1467,accelerating_down
+JAMMU AND KASHMIR,BUDGAM,2_weeks_ahead,51.36309071278241,Stable,184,945,1071,accelerating_down
+JAMMU AND KASHMIR,DODA,2_weeks_ahead,47.373267337128794,Stable,237,493,790,accelerating_down
+JAMMU AND KASHMIR,GANDERBAL,2_weeks_ahead,38.12112231328042,Stable,58,374,578,accelerating_down
+JAMMU AND KASHMIR,JAMMU,2_weeks_ahead,57.66490747629201,Watchlist,216,1222,1845,accelerating_down
+JAMMU AND KASHMIR,KATHUA,2_weeks_ahead,48.43980683556633,Stable,223,743,845,accelerating_down
+JAMMU AND KASHMIR,KISHTWAR,2_weeks_ahead,42.849082465029184,Stable,76,238,461,stable
+JAMMU AND KASHMIR,KULGAM,2_weeks_ahead,43.39690373609242,Stable,60,349,566,stable
+JAMMU AND KASHMIR,KUPWARA,2_weeks_ahead,48.697839735629586,Stable,127,883,1140,accelerating_down
+JAMMU AND KASHMIR,POONCH,2_weeks_ahead,44.93909502012194,Stable,154,462,807,accelerating_down
+JAMMU AND KASHMIR,PULWAMA,2_weeks_ahead,43.38519864054735,Stable,102,616,727,declining
+JAMMU AND KASHMIR,RAJOURI,2_weeks_ahead,49.36419239308975,Stable,150,609,1362,accelerating_down
+JAMMU AND KASHMIR,RAMBAN,2_weeks_ahead,56.331186155802364,Watchlist,168,425,650,rising
+JAMMU AND KASHMIR,REASI,2_weeks_ahead,52.2567013331372,Stable,119,401,515,accelerating_up
+JAMMU AND KASHMIR,SAMBA,2_weeks_ahead,40.21163818073566,Stable,46,307,298,stable
+JAMMU AND KASHMIR,SHOPIAN,2_weeks_ahead,43.33541343618838,Stable,66,446,386,stable
+JAMMU AND KASHMIR,SRINAGAR,2_weeks_ahead,54.82065200042833,Stable,117,1403,2157,accelerating_down
+JAMMU AND KASHMIR,UDHAMPUR,2_weeks_ahead,46.756698072668954,Stable,182,558,796,accelerating_down
+JHARKHAND,BOKARO,2_weeks_ahead,63.431969258323065,Watchlist,276,2101,1708,accelerating_down
+JHARKHAND,CHATRA,2_weeks_ahead,58.069047589798686,Watchlist,251,1537,1158,accelerating_down
+JHARKHAND,DEOGHAR,2_weeks_ahead,61.65681315576447,Watchlist,368,1707,1181,accelerating_down
+JHARKHAND,DHANBAD,2_weeks_ahead,67.2971791865197,Watchlist,297,2586,2120,accelerating_down
+JHARKHAND,DUMKA,2_weeks_ahead,59.898304624741236,Watchlist,202,1379,944,stable
+JHARKHAND,EAST SINGHBUM,2_weeks_ahead,68.96144263013147,Watchlist,502,2393,2079,accelerating_down
+JHARKHAND,GARHWA,2_weeks_ahead,61.91219331028453,Watchlist,273,1605,1631,accelerating_down
+JHARKHAND,GIRIDIH,2_weeks_ahead,70.99471161853727,Emerging_Risk,575,3166,1743,accelerating_down
+JHARKHAND,GODDA,2_weeks_ahead,59.913284515535246,Watchlist,241,1621,1449,accelerating_down
+JHARKHAND,GUMLA,2_weeks_ahead,55.65087817895677,Watchlist,164,1468,1379,accelerating_down
+JHARKHAND,HAZARIBAGH,2_weeks_ahead,59.3740270821873,Watchlist,219,2004,1248,accelerating_down
+JHARKHAND,JAMTARA,2_weeks_ahead,49.63130238063185,Stable,186,1065,683,accelerating_down
+JHARKHAND,KHUNTI,2_weeks_ahead,47.26154454285759,Stable,90,666,488,stable
+JHARKHAND,KODERMA,2_weeks_ahead,55.70553521142892,Watchlist,185,893,836,stable
+JHARKHAND,LATEHAR,2_weeks_ahead,53.08401569912394,Stable,118,1222,657,stable
+JHARKHAND,LOHARDAGA,2_weeks_ahead,47.54541066498386,Stable,182,790,714,accelerating_down
+JHARKHAND,PAKUR,2_weeks_ahead,46.61317136555196,Stable,69,813,618,stable
+JHARKHAND,PALAMU,2_weeks_ahead,71.0933346794727,Emerging_Risk,401,3024,2447,accelerating_down
+JHARKHAND,RAMGARH,2_weeks_ahead,51.86167113882847,Stable,116,981,689,stable
+JHARKHAND,RANCHI,2_weeks_ahead,69.61293398090972,Watchlist,334,2875,2488,accelerating_down
+JHARKHAND,SAHEBGANJ,2_weeks_ahead,63.34542195219471,Watchlist,239,1564,1113,stable
+JHARKHAND,SARAIKELA KHARSAWAN,2_weeks_ahead,52.079346967727844,Stable,185,1032,1052,declining
+JHARKHAND,SIMDEGA,2_weeks_ahead,48.55508430741758,Stable,69,686,940,stable
+JHARKHAND,WEST SINGHBHUM,2_weeks_ahead,66.54324919495612,Watchlist,324,2180,2333,accelerating_down
+Jammu and Kashmir,Anantnag,2_weeks_ahead,24.297213916074103,Stable,1,12,25,accelerating_up
+Jammu and Kashmir,Baramula,2_weeks_ahead,38.32929675173351,Stable,24,76,89,accelerating_up
+Jammu and Kashmir,Kargil,2_weeks_ahead,15.047923349201747,Stable,1,7,2,accelerating_up
+Jammu and Kashmir,Kulgam,2_weeks_ahead,15.56899245615888,Stable,0,4,21,rising
+Jammu and Kashmir,Leh,2_weeks_ahead,8.343597127401711,Stable,0,1,1,stable
+Jammu and Kashmir,Pulwama,2_weeks_ahead,29.53710018968443,Stable,3,25,54,accelerating_up
+Jammu and Kashmir,Punch,2_weeks_ahead,34.882286138360556,Stable,17,159,499,stable
+Jammu and Kashmir,Srinagar,2_weeks_ahead,27.659238652256366,Stable,1,60,92,accelerating_up
+Jammu and Kashmir,Udhampur,2_weeks_ahead,32.90680867628043,Stable,16,33,34,accelerating_up
+Jharkhand,Bokaro,2_weeks_ahead,6.767916064779759,Stable,0,0,2,stable
+Jharkhand,Dhanbad,2_weeks_ahead,17.94478921727598,Stable,0,12,19,accelerating_up
+Jharkhand,East Singhbhum,2_weeks_ahead,40.16044000577121,Stable,18,144,171,accelerating_up
+Jharkhand,Garhwa,2_weeks_ahead,22.492489913702094,Stable,2,4,14,accelerating_up
+Jharkhand,Gumla,2_weeks_ahead,46.52594574807152,Stable,43,595,306,rising
+Jharkhand,Hazaribag,2_weeks_ahead,18.763206322322404,Stable,0,2,1,accelerating_up
+Jharkhand,Hazaribagh,2_weeks_ahead,33.05585291171722,Stable,16,178,152,stable
+Jharkhand,Latehar,2_weeks_ahead,10.859798339059973,Stable,0,3,1,stable
+Jharkhand,Lohardaga,2_weeks_ahead,11.603038350620373,Stable,0,3,1,accelerating_up
+Jharkhand,Pashchimi Singhbhum,2_weeks_ahead,8.521396426531945,Stable,0,0,0,stable
+Jharkhand,Purbi Singhbhum,2_weeks_ahead,33.28407505558781,Stable,8,37,59,accelerating_up
+Jharkhand,Seraikela-Kharsawan,2_weeks_ahead,11.939788602593653,Stable,0,2,5,stable
+KARNATAKA,BAGALKOT,2_weeks_ahead,63.48876988152913,Watchlist,475,1462,1425,accelerating_down
+KARNATAKA,BALLARI,2_weeks_ahead,60.017406209490055,Watchlist,307,1200,1627,accelerating_down
+KARNATAKA,BELAGAVI,2_weeks_ahead,77.89402096899416,Emerging_Risk,718,4065,4664,accelerating_down
+KARNATAKA,BENGALURU RURAL,2_weeks_ahead,60.9865856397892,Watchlist,251,1747,1358,accelerating_down
+KARNATAKA,BENGALURU URBAN,2_weeks_ahead,81.99570076142271,Emerging_Risk,1166,9105,9148,accelerating_down
+KARNATAKA,BIDAR,2_weeks_ahead,58.23613129375679,Watchlist,220,1298,1819,accelerating_down
+KARNATAKA,CHAMARAJANAGARA,2_weeks_ahead,45.65040879680759,Stable,117,716,989,accelerating_down
+KARNATAKA,CHIKKABALLAPURA,2_weeks_ahead,58.09477169447489,Watchlist,176,1120,935,stable
+KARNATAKA,CHIKKAMAGALURU,2_weeks_ahead,46.736849258500534,Stable,137,846,770,accelerating_down
+KARNATAKA,CHITRADURGA,2_weeks_ahead,60.40796202265702,Watchlist,348,1443,1412,accelerating_down
+KARNATAKA,DAKSHINA KANNADA,2_weeks_ahead,63.846380473571074,Watchlist,348,1941,1440,accelerating_down
+KARNATAKA,DAVANGERE,2_weeks_ahead,60.13237739665881,Watchlist,412,1160,1329,accelerating_down
+KARNATAKA,DHARWAD,2_weeks_ahead,58.10351059832607,Watchlist,221,1397,1500,accelerating_down
+KARNATAKA,GADAG,2_weeks_ahead,49.182425751216826,Stable,181,914,776,declining
+KARNATAKA,HASSAN,2_weeks_ahead,55.79011989035194,Watchlist,196,1411,1220,accelerating_down
+KARNATAKA,HAVERI,2_weeks_ahead,56.95734337149332,Watchlist,260,1258,1221,accelerating_down
+KARNATAKA,KALABURAGI,2_weeks_ahead,71.53061873365803,Emerging_Risk,455,2191,3266,accelerating_down
+KARNATAKA,KODAGU,2_weeks_ahead,43.847093362431764,Stable,77,501,266,stable
+KARNATAKA,KOLAR,2_weeks_ahead,54.87434942293311,Stable,190,1154,1431,accelerating_down
+KARNATAKA,KOPPAL,2_weeks_ahead,56.64291276952313,Watchlist,306,1213,1172,accelerating_down
+KARNATAKA,MANDYA,2_weeks_ahead,55.51227531736642,Watchlist,223,1242,1221,accelerating_down
+KARNATAKA,MYSURU,2_weeks_ahead,67.31088933710274,Watchlist,342,1996,2409,accelerating_down
+KARNATAKA,RAICHUR,2_weeks_ahead,68.70424178395128,Watchlist,523,1597,2460,accelerating_down
+KARNATAKA,RAMANAGARA,2_weeks_ahead,50.13774749438662,Stable,135,1244,870,accelerating_down
+KARNATAKA,SHIVAMOGGA,2_weeks_ahead,57.492101148414534,Watchlist,272,1293,1124,accelerating_down
+KARNATAKA,TUMAKURU,2_weeks_ahead,67.78159256047729,Watchlist,374,2128,2357,accelerating_down
+KARNATAKA,UDUPI,2_weeks_ahead,47.93476774505088,Stable,161,998,722,accelerating_down
+KARNATAKA,UTTARA KANNADA,2_weeks_ahead,51.46530208521037,Stable,166,1102,1020,accelerating_down
+KARNATAKA,VIJAYAPURA,2_weeks_ahead,68.55981309224816,Watchlist,413,2137,2279,accelerating_down
+KARNATAKA,VIJAYNAGAR,2_weeks_ahead,49.660806109986574,Stable,170,1013,804,accelerating_down
+KARNATAKA,YADGIR,2_weeks_ahead,56.60224657189692,Watchlist,283,1074,1212,accelerating_down
+KERALA,ALAPPUZHA,2_weeks_ahead,58.05564690598728,Watchlist,161,1677,1907,accelerating_down
+KERALA,ERNAKULAM,2_weeks_ahead,67.39813647950709,Watchlist,252,2641,2512,accelerating_down
+KERALA,IDUKKI,2_weeks_ahead,47.42089177066296,Stable,66,650,870,stable
+KERALA,KANNUR,2_weeks_ahead,65.82235492342609,Watchlist,267,2652,2063,accelerating_down
+KERALA,KASARAGOD,2_weeks_ahead,55.462893958986335,Watchlist,201,1274,1234,accelerating_down
+KERALA,KOLLAM,2_weeks_ahead,64.44264254445588,Watchlist,223,2334,2190,accelerating_down
+KERALA,KOTTAYAM,2_weeks_ahead,54.84816247615396,Stable,167,1376,1447,accelerating_down
+KERALA,KOZHIKODE,2_weeks_ahead,72.01395391486061,Emerging_Risk,334,3729,3066,accelerating_down
+KERALA,MALAPPURAM,2_weeks_ahead,79.78072177317783,Emerging_Risk,803,7207,4056,accelerating_down
+KERALA,PALAKKAD,2_weeks_ahead,69.27516534147664,Watchlist,388,2386,2573,accelerating_down
+KERALA,PATHANAMTHITTA,2_weeks_ahead,47.50215049057021,Stable,105,1046,1027,accelerating_down
+KERALA,THIRUVANANTHAPURAM,2_weeks_ahead,68.82529814460666,Watchlist,280,2911,2557,accelerating_down
+KERALA,THRISSUR,2_weeks_ahead,66.44689280019881,Watchlist,262,2699,2133,accelerating_down
+KERALA,WAYANAD,2_weeks_ahead,44.18076263689864,Stable,51,626,533,stable
+Karnataka,Bagalkot,2_weeks_ahead,22.645922831740048,Stable,2,9,8,accelerating_up
+Karnataka,Ballari,2_weeks_ahead,13.439176334816805,Stable,1,5,7,declining
+Karnataka,Bangalore,2_weeks_ahead,35.19279345312009,Stable,10,41,95,accelerating_up
+Karnataka,Belagavi,2_weeks_ahead,9.166968391052196,Stable,0,1,2,stable
+Karnataka,Belgaum,2_weeks_ahead,9.079777825085111,Stable,0,1,2,stable
+Karnataka,Bellary,2_weeks_ahead,20.9801798215782,Stable,3,28,28,accelerating_down
+Karnataka,Bengaluru,2_weeks_ahead,37.632651133722376,Stable,12,88,142,accelerating_up
+Karnataka,Bidar,2_weeks_ahead,23.78142961488543,Stable,1,12,12,accelerating_up
+Karnataka,Bijapur,2_weeks_ahead,32.4966492218043,Stable,9,34,38,accelerating_up
+Karnataka,Chickmagalur,2_weeks_ahead,11.406782994079066,Stable,0,6,2,stable
+Karnataka,Chikkamagaluru,2_weeks_ahead,4.034362165454716,Stable,0,1,0,stable
+Karnataka,Chitradurga,2_weeks_ahead,9.863313462050096,Stable,0,2,3,stable
+Karnataka,Dakshina Kannada,2_weeks_ahead,16.859429276206242,Stable,1,12,9,stable
+Karnataka,Hasan,2_weeks_ahead,14.601483816310397,Stable,0,9,6,stable
+Karnataka,Hassan,2_weeks_ahead,17.771105367763376,Stable,1,14,9,stable
+Karnataka,Kolar,2_weeks_ahead,9.01044025047383,Stable,0,2,0,stable
+Karnataka,Koppal,2_weeks_ahead,20.47832226259966,Stable,0,27,20,stable
+Karnataka,Mandya,2_weeks_ahead,15.745612957125287,Stable,0,8,5,rising
+Karnataka,Mysore,2_weeks_ahead,19.344793133574807,Stable,2,16,27,declining
+Karnataka,Mysuru,2_weeks_ahead,23.866827408025333,Stable,1,15,15,accelerating_up
+Karnataka,Ramanagar,2_weeks_ahead,12.141439532721378,Stable,0,6,4,declining
+Karnataka,Shimoga,2_weeks_ahead,20.726527558330318,Stable,4,29,18,accelerating_down
+Karnataka,Shivamogga,2_weeks_ahead,23.295321764788024,Stable,2,14,7,accelerating_up
+Karnataka,Tumakuru,2_weeks_ahead,4.704028646910984,Stable,0,1,0,stable
+Karnataka,Tumkur,2_weeks_ahead,5.408451810478958,Stable,0,1,1,stable
+Karnataka,Uttara Kannada,2_weeks_ahead,8.560661117536705,Stable,0,3,1,declining
+Karnataka,Vijayanagara,2_weeks_ahead,18.38480247516331,Stable,1,6,1,accelerating_up
+Karnataka,Vijayapura,2_weeks_ahead,30.11587619954774,Stable,3,30,51,accelerating_up
+Kerala,Alappuzha,2_weeks_ahead,27.087091394265222,Stable,2,24,20,accelerating_up
+Kerala,Ernakulam,2_weeks_ahead,8.932864544400015,Stable,0,1,2,stable
+Kerala,Idukki,2_weeks_ahead,9.608691260736544,Stable,0,1,3,stable
+Kerala,Kottayam,2_weeks_ahead,14.134882724923521,Stable,0,9,10,stable
+Kerala,Kozhikode,2_weeks_ahead,14.196857610048605,Stable,0,7,2,rising
+Kerala,Malappuram,2_weeks_ahead,29.01393898599884,Stable,4,34,23,accelerating_up
+Kerala,Thrissur,2_weeks_ahead,7.944060037884846,Stable,0,0,1,stable
+LADAKH,KARGIL,2_weeks_ahead,39.80102451887196,Stable,69,242,135,stable
+LADAKH,LEH LADAKH,2_weeks_ahead,38.536156427584714,Stable,15,173,114,rising
+LAKSHADWEEP,LAKSHADWEEP DISTRICT,2_weeks_ahead,34.93691336698518,Stable,7,64,82,accelerating_up
+Ladakh,Kargil,2_weeks_ahead,10.119273633118015,Stable,0,3,0,stable
+Ladakh,Leh,2_weeks_ahead,10.155700211565055,Stable,0,3,3,stable
+MADHYA PRADESH,AGAR MALWA,2_weeks_ahead,56.4313157541325,Watchlist,216,688,870,stable
+MADHYA PRADESH,ALIRAJPUR,2_weeks_ahead,56.73323521751303,Watchlist,224,684,882,stable
+MADHYA PRADESH,ANUPPUR,2_weeks_ahead,56.87617016601974,Watchlist,144,533,803,accelerating_up
+MADHYA PRADESH,ASHOKNAGAR,2_weeks_ahead,58.591976090276766,Watchlist,212,983,1039,stable
+MADHYA PRADESH,BALAGHAT,2_weeks_ahead,65.96312078484141,Watchlist,329,1356,3415,accelerating_down
+MADHYA PRADESH,BARWANI,2_weeks_ahead,62.8016208532261,Watchlist,390,1388,1469,accelerating_down
+MADHYA PRADESH,BETUL,2_weeks_ahead,65.0885972434413,Watchlist,371,1258,2576,accelerating_down
+MADHYA PRADESH,BHIND,2_weeks_ahead,64.78877478787325,Watchlist,354,1868,1819,accelerating_down
+MADHYA PRADESH,BHOPAL,2_weeks_ahead,72.9956491434032,Emerging_Risk,506,2248,3682,accelerating_down
+MADHYA PRADESH,BURHANPUR,2_weeks_ahead,55.53981463133084,Watchlist,187,535,1085,stable
+MADHYA PRADESH,CHHATARPUR,2_weeks_ahead,74.0016320751617,Emerging_Risk,759,2467,2646,accelerating_down
+MADHYA PRADESH,CHHINDWARA,2_weeks_ahead,70.21059935892836,Emerging_Risk,474,1826,3082,accelerating_down
+MADHYA PRADESH,DAMOH,2_weeks_ahead,59.67522704785985,Watchlist,275,1222,1667,accelerating_down
+MADHYA PRADESH,DATIA,2_weeks_ahead,54.62390153266775,Stable,211,1473,803,declining
+MADHYA PRADESH,DEWAS,2_weeks_ahead,64.03066969582827,Watchlist,414,1033,2421,accelerating_down
+MADHYA PRADESH,DHAR,2_weeks_ahead,70.10026682287385,Emerging_Risk,559,2217,1939,accelerating_down
+MADHYA PRADESH,DINDORI,2_weeks_ahead,51.72288588819924,Stable,219,792,1022,declining
+MADHYA PRADESH,EAST NIMAR,2_weeks_ahead,60.20389372083701,Watchlist,333,992,1733,accelerating_down
+MADHYA PRADESH,GUNA,2_weeks_ahead,62.77319372110506,Watchlist,410,1208,1606,accelerating_down
+MADHYA PRADESH,GWALIOR,2_weeks_ahead,70.9526178934008,Emerging_Risk,483,2405,2531,accelerating_down
+MADHYA PRADESH,HARDA,2_weeks_ahead,53.65307426030099,Stable,141,299,677,rising
+MADHYA PRADESH,HOSHANGABAD,2_weeks_ahead,57.9771761345397,Watchlist,296,884,1739,accelerating_down
+MADHYA PRADESH,INDORE,2_weeks_ahead,79.42140971465582,Emerging_Risk,805,4417,5438,accelerating_down
+MADHYA PRADESH,JABALPUR,2_weeks_ahead,71.79244482046914,Emerging_Risk,551,1940,3391,accelerating_down
+MADHYA PRADESH,JHABUA,2_weeks_ahead,61.95550650606,Watchlist,366,1536,1229,accelerating_down
+MADHYA PRADESH,KATNI,2_weeks_ahead,72.93728681721815,Emerging_Risk,602,1920,3920,accelerating_down
+MADHYA PRADESH,KHARGONE,2_weeks_ahead,69.32634907577065,Watchlist,535,1568,2647,accelerating_down
+MADHYA PRADESH,MANDLA,2_weeks_ahead,56.140108137516265,Watchlist,288,1220,870,declining
+MADHYA PRADESH,MANDSAUR,2_weeks_ahead,60.76983848447481,Watchlist,370,1190,1407,accelerating_down
+MADHYA PRADESH,MORENA,2_weeks_ahead,72.31653688914886,Emerging_Risk,698,2481,2202,accelerating_down
+MADHYA PRADESH,NARSINGHPUR,2_weeks_ahead,57.15085232484304,Watchlist,270,1045,1363,declining
+MADHYA PRADESH,NEEMUCH,2_weeks_ahead,57.16666438868613,Watchlist,223,952,819,stable
+MADHYA PRADESH,NIWARI,2_weeks_ahead,48.48673398092318,Stable,76,374,385,accelerating_up
+MADHYA PRADESH,PANNA,2_weeks_ahead,56.459969065970924,Watchlist,297,1051,1065,declining
+MADHYA PRADESH,RAISEN,2_weeks_ahead,63.1451673106404,Watchlist,410,1209,1873,accelerating_down
+MADHYA PRADESH,RAJGARH,2_weeks_ahead,68.77645223246252,Watchlist,773,1409,2112,accelerating_down
+MADHYA PRADESH,RATLAM,2_weeks_ahead,65.5172555724221,Watchlist,289,1295,4213,accelerating_down
+MADHYA PRADESH,REWA,2_weeks_ahead,73.27098477460191,Emerging_Risk,513,2972,2681,accelerating_down
+MADHYA PRADESH,SAGAR,2_weeks_ahead,73.94793754056542,Emerging_Risk,681,2426,3028,accelerating_down
+MADHYA PRADESH,SATNA,2_weeks_ahead,73.97713971842776,Emerging_Risk,568,2468,3334,accelerating_down
+MADHYA PRADESH,SEHORE,2_weeks_ahead,63.14900896369723,Watchlist,445,940,2219,accelerating_down
+MADHYA PRADESH,SEONI,2_weeks_ahead,61.38979618028538,Watchlist,358,1460,1307,accelerating_down
+MADHYA PRADESH,SHAHDOL,2_weeks_ahead,69.00130871324194,Watchlist,491,1783,2297,accelerating_down
+MADHYA PRADESH,SHAJAPUR,2_weeks_ahead,63.30653460989855,Watchlist,361,892,1041,stable
+MADHYA PRADESH,SHEOPUR,2_weeks_ahead,63.86495678750023,Watchlist,354,1035,939,stable
+MADHYA PRADESH,SHIVPURI,2_weeks_ahead,71.82600508653417,Emerging_Risk,562,2419,2395,accelerating_down
+MADHYA PRADESH,SIDHI,2_weeks_ahead,57.99964018816892,Watchlist,285,1220,1178,accelerating_down
+MADHYA PRADESH,SINGRAULI,2_weeks_ahead,63.953234044864324,Watchlist,420,1680,1296,accelerating_down
+MADHYA PRADESH,TIKAMGARH,2_weeks_ahead,61.12189419917776,Watchlist,347,1182,1631,accelerating_down
+MADHYA PRADESH,UJJAIN,2_weeks_ahead,73.77010449676764,Emerging_Risk,727,2224,3119,accelerating_down
+MADHYA PRADESH,UMARIA,2_weeks_ahead,53.50555669494497,Stable,302,800,885,declining
+MADHYA PRADESH,VIDISHA,2_weeks_ahead,65.94697555143405,Watchlist,446,1278,2358,accelerating_down
+MAHARASHTRA,AHMEDNAGAR,2_weeks_ahead,81.490585839514,Emerging_Risk,1140,7971,7426,accelerating_down
+MAHARASHTRA,AKOLA,2_weeks_ahead,61.963394790410135,Watchlist,189,1793,2863,accelerating_down
+MAHARASHTRA,AMRAVATI,2_weeks_ahead,71.25671185160073,Emerging_Risk,307,2934,5150,accelerating_down
+MAHARASHTRA,AURANGABAD,2_weeks_ahead,79.46629419084687,Emerging_Risk,619,5917,5595,accelerating_down
+MAHARASHTRA,BEED,2_weeks_ahead,72.153383606474,Emerging_Risk,272,4417,4216,accelerating_down
+MAHARASHTRA,BHANDARA,2_weeks_ahead,52.71448223445726,Stable,134,1083,1751,accelerating_down
+MAHARASHTRA,BULDHANA,2_weeks_ahead,72.12051146684733,Emerging_Risk,312,3209,4583,accelerating_down
+MAHARASHTRA,CHANDRAPUR,2_weeks_ahead,67.57799624815223,Watchlist,207,2729,4436,accelerating_down
+MAHARASHTRA,DHULE,2_weeks_ahead,68.80354082672892,Watchlist,314,2206,3225,accelerating_down
+MAHARASHTRA,GADCHIROLI,2_weeks_ahead,58.91850641891305,Watchlist,161,1457,2805,accelerating_down
+MAHARASHTRA,GONDIA,2_weeks_ahead,57.42894766388086,Watchlist,152,1584,1887,accelerating_down
+MAHARASHTRA,HINGOLI,2_weeks_ahead,60.816045450403266,Watchlist,148,2288,2594,accelerating_down
+MAHARASHTRA,JALGAON,2_weeks_ahead,77.15216651941392,Emerging_Risk,476,4300,6907,accelerating_down
+MAHARASHTRA,JALNA,2_weeks_ahead,67.94152535095482,Watchlist,260,2580,3148,accelerating_down
+MAHARASHTRA,KOLHAPUR,2_weeks_ahead,75.26463448281383,Emerging_Risk,362,5003,4530,accelerating_down
+MAHARASHTRA,LATUR,2_weeks_ahead,67.8064129172447,Watchlist,238,3513,3078,accelerating_down
+MAHARASHTRA,MUMBAI,2_weeks_ahead,71.57937674888878,Emerging_Risk,286,3793,3459,accelerating_down
+MAHARASHTRA,MUMBAI SUBURBAN,2_weeks_ahead,82.23354821081283,Emerging_Risk,1055,12962,12175,accelerating_down
+MAHARASHTRA,NAGPUR,2_weeks_ahead,76.80500864035972,Emerging_Risk,436,5510,5424,accelerating_down
+MAHARASHTRA,NANDED,2_weeks_ahead,76.74185150207147,Emerging_Risk,407,5576,5308,accelerating_down
+MAHARASHTRA,NANDURBAR,2_weeks_ahead,59.71063675033599,Watchlist,222,1012,2581,accelerating_down
+MAHARASHTRA,NASHIK,2_weeks_ahead,81.30795577380385,Emerging_Risk,817,8342,10903,accelerating_down
+MAHARASHTRA,OSMANABAD,2_weeks_ahead,64.1792431038721,Watchlist,202,2577,2635,accelerating_down
+MAHARASHTRA,PALGHAR,2_weeks_ahead,78.38930577968507,Emerging_Risk,468,6459,5484,accelerating_down
+MAHARASHTRA,PARBHANI,2_weeks_ahead,67.38938203522763,Watchlist,242,2928,2894,accelerating_down
+MAHARASHTRA,PUNE,2_weeks_ahead,82.47066807130967,Emerging_Risk,1347,17360,13725,accelerating_down
+MAHARASHTRA,RAIGAD,2_weeks_ahead,74.16996499298361,Emerging_Risk,362,4730,3488,accelerating_down
+MAHARASHTRA,RATNAGIRI,2_weeks_ahead,60.558929158482975,Watchlist,137,2048,2602,accelerating_down
+MAHARASHTRA,SANGLI,2_weeks_ahead,71.30472092306904,Emerging_Risk,258,3735,4453,accelerating_down
+MAHARASHTRA,SATARA,2_weeks_ahead,73.42717822450417,Emerging_Risk,347,4001,3731,accelerating_down
+MAHARASHTRA,SINDHUDURG,2_weeks_ahead,44.256727267668474,Stable,52,948,1108,accelerating_down
+MAHARASHTRA,SOLAPUR,2_weeks_ahead,79.8956786573477,Emerging_Risk,605,7700,7325,accelerating_down
+MAHARASHTRA,THANE,2_weeks_ahead,82.19775883122894,Emerging_Risk,1072,12349,10874,accelerating_down
+MAHARASHTRA,WARDHA,2_weeks_ahead,56.13820384641708,Watchlist,138,1203,2744,accelerating_down
+MAHARASHTRA,WASHIM,2_weeks_ahead,61.43153619625231,Watchlist,210,1626,2540,accelerating_down
+MAHARASHTRA,YAVATMAL,2_weeks_ahead,75.41534395761086,Emerging_Risk,355,4906,6257,accelerating_down
+MANIPUR,BISHNUPUR,2_weeks_ahead,39.51392417183936,Stable,18,234,86,rising
+MANIPUR,CHANDEL,2_weeks_ahead,35.246537110134014,Stable,8,84,51,accelerating_up
+MANIPUR,CHURACHANDPUR,2_weeks_ahead,44.38839640620807,Stable,51,284,117,accelerating_up
+MANIPUR,IMPHAL EAST,2_weeks_ahead,39.66821045014248,Stable,26,472,229,stable
+MANIPUR,IMPHAL WEST,2_weeks_ahead,46.5987978945299,Stable,74,1398,678,accelerating_down
+MANIPUR,JIRIBAM,2_weeks_ahead,34.89612767379679,Stable,7,109,50,accelerating_up
+MANIPUR,KAKCHING,2_weeks_ahead,40.05460243561963,Stable,14,313,118,rising
+MANIPUR,KAMJONG,2_weeks_ahead,33.0956289353538,Stable,9,68,27,accelerating_up
+MANIPUR,KANGPOKPI,2_weeks_ahead,47.466391853813846,Stable,67,1829,686,accelerating_down
+MANIPUR,NONEY,2_weeks_ahead,31.72656904836575,Stable,7,59,23,accelerating_up
+MANIPUR,PHERZAWL,2_weeks_ahead,32.45709867911281,Stable,8,51,28,accelerating_up
+MANIPUR,SENAPATI,2_weeks_ahead,38.698463641047724,Stable,12,188,101,accelerating_up
+MANIPUR,TAMENGLONG,2_weeks_ahead,34.80296420873373,Stable,27,57,29,accelerating_up
+MANIPUR,TENGNOUPAL,2_weeks_ahead,34.411410309930005,Stable,16,43,32,accelerating_up
+MANIPUR,THOUBAL,2_weeks_ahead,47.05149193517655,Stable,40,2120,666,accelerating_down
+MANIPUR,UKHRUL,2_weeks_ahead,37.46289430013816,Stable,11,169,71,accelerating_up
+MEGHALAYA,EAST GARO HILLS,2_weeks_ahead,30.99326341531391,Stable,11,57,12,accelerating_up
+MEGHALAYA,EAST JAINTIA HILLS,2_weeks_ahead,30.835403409586206,Stable,11,61,37,accelerating_up
+MEGHALAYA,EAST KHASI HILLS,2_weeks_ahead,50.229371953662096,Stable,289,460,288,stable
+MEGHALAYA,NORTH GARO HILLS,2_weeks_ahead,23.681819382801717,Stable,3,11,3,accelerating_up
+MEGHALAYA,RI BHOI,2_weeks_ahead,42.58502405146167,Stable,48,226,79,accelerating_up
+MEGHALAYA,SOUTH GARO HILLS,2_weeks_ahead,24.222702706713616,Stable,3,24,5,accelerating_up
+MEGHALAYA,SOUTH WEST GARO HILLS,2_weeks_ahead,32.50873727131419,Stable,8,83,31,accelerating_up
+MEGHALAYA,SOUTH WEST KHASI HILLS,2_weeks_ahead,39.745033158445764,Stable,48,114,47,accelerating_up
+MEGHALAYA,WEST GARO HILLS,2_weeks_ahead,46.833415822266566,Stable,80,374,194,accelerating_up
+MEGHALAYA,WEST JAINTIA HILLS,2_weeks_ahead,41.76105247827507,Stable,67,113,82,accelerating_up
+MIZORAM,AIZAWL,2_weeks_ahead,43.008346290541176,Stable,47,266,195,accelerating_up
+MIZORAM,CHAMPHAI,2_weeks_ahead,30.973288698069545,Stable,7,59,19,accelerating_up
+MIZORAM,HNAHTHIAL,2_weeks_ahead,16.476244940419715,Stable,0,22,13,stable
+MIZORAM,KHAWZAWL,2_weeks_ahead,19.18877327789414,Stable,1,25,11,accelerating_up
+MIZORAM,KOLASIB,2_weeks_ahead,31.259157419863925,Stable,6,42,42,accelerating_up
+MIZORAM,LAWNGTLAI,2_weeks_ahead,36.651199755449575,Stable,26,51,109,accelerating_up
+MIZORAM,LUNGLEI,2_weeks_ahead,31.64236930877918,Stable,5,79,31,accelerating_up
+MIZORAM,MAMIT,2_weeks_ahead,23.814692565615875,Stable,1,22,11,accelerating_up
+MIZORAM,SAITUAL,2_weeks_ahead,21.252925689646293,Stable,3,47,116,accelerating_down
+MIZORAM,SERCHHIP,2_weeks_ahead,27.835972563460864,Stable,3,26,27,accelerating_up
+Madhya Pradesh,Alirajpur,2_weeks_ahead,37.45413749594681,Stable,20,75,78,accelerating_up
+Madhya Pradesh,Ashok Nagar,2_weeks_ahead,8.226488003590735,Stable,0,0,1,stable
+Madhya Pradesh,Barwani,2_weeks_ahead,9.296442816326683,Stable,0,3,0,stable
+Madhya Pradesh,Bhopal,2_weeks_ahead,39.952140246558656,Stable,29,78,150,accelerating_up
+Madhya Pradesh,Chhatarpur,2_weeks_ahead,25.041649156326248,Stable,4,11,10,accelerating_up
+Madhya Pradesh,Chhindwara,2_weeks_ahead,27.87854835237532,Stable,6,19,14,accelerating_up
+Madhya Pradesh,Dhar,2_weeks_ahead,21.021661528777376,Stable,0,10,10,accelerating_up
+Madhya Pradesh,Guna,2_weeks_ahead,9.48562340522145,Stable,0,1,1,accelerating_up
+Madhya Pradesh,Harda *,2_weeks_ahead,24.130036339995012,Stable,2,6,18,accelerating_up
+Madhya Pradesh,Hoshangabad,2_weeks_ahead,11.67984022457242,Stable,0,3,7,stable
+Madhya Pradesh,Indore,2_weeks_ahead,17.01230775384137,Stable,0,11,14,stable
+Madhya Pradesh,Jabalpur,2_weeks_ahead,28.23076086933984,Stable,3,21,29,accelerating_up
+Madhya Pradesh,Jhabua,2_weeks_ahead,7.36810272070986,Stable,0,0,0,declining
+Madhya Pradesh,Narsimhapur,2_weeks_ahead,6.1872154845998955,Stable,0,0,0,stable
+Madhya Pradesh,Narsinghpur,2_weeks_ahead,29.04127240015492,Stable,10,26,16,accelerating_up
+Madhya Pradesh,Niwari,2_weeks_ahead,19.70132721092683,Stable,1,15,1,accelerating_up
+Madhya Pradesh,Panna,2_weeks_ahead,40.67803646604851,Stable,28,113,122,accelerating_up
+Madhya Pradesh,Raisen,2_weeks_ahead,32.69354138378978,Stable,14,32,38,accelerating_up
+Madhya Pradesh,Rajgarh,2_weeks_ahead,13.714042204927358,Stable,0,0,1,accelerating_up
+Madhya Pradesh,Sagar,2_weeks_ahead,24.544834929010623,Stable,2,11,20,accelerating_up
+Madhya Pradesh,Sehore,2_weeks_ahead,7.701016431044825,Stable,0,0,1,stable
+Madhya Pradesh,Shajapur,2_weeks_ahead,30.29787199736676,Stable,5,23,47,accelerating_up
+Madhya Pradesh,Sidhi,2_weeks_ahead,31.101483892263055,Stable,6,31,25,accelerating_up
+Madhya Pradesh,Singrauli,2_weeks_ahead,20.843468904051797,Stable,1,40,23,declining
+Madhya Pradesh,Tikamgarh,2_weeks_ahead,40.998981510686086,Stable,27,136,135,accelerating_up
+Madhya Pradesh,Umaria,2_weeks_ahead,28.938360833455324,Stable,7,21,35,rising
+Maharashtra,Ahmadnagar,2_weeks_ahead,27.171810144386857,Stable,2,49,54,accelerating_up
+Maharashtra,Akola,2_weeks_ahead,16.72920160853022,Stable,0,6,13,rising
+Maharashtra,Amravati,2_weeks_ahead,27.814700528287542,Stable,2,21,52,accelerating_up
+Maharashtra,Aurangabad,2_weeks_ahead,8.683194845208629,Stable,0,2,2,declining
+Maharashtra,Chandrapur,2_weeks_ahead,30.073681796641733,Stable,1,34,76,accelerating_up
+Maharashtra,Jalgaon,2_weeks_ahead,35.90791331693268,Stable,16,162,219,stable
+Maharashtra,Kolhapur,2_weeks_ahead,15.499908282930326,Stable,0,10,16,stable
+Maharashtra,Mumbai,2_weeks_ahead,18.087472278336136,Stable,0,14,14,rising
+Maharashtra,Mumbai City,2_weeks_ahead,8.103413515509054,Stable,0,1,0,stable
+Maharashtra,Mumbai( Sub Urban ),2_weeks_ahead,9.398920769942201,Stable,0,0,1,accelerating_up
+Maharashtra,Nagpur,2_weeks_ahead,37.616120878432305,Stable,16,248,308,stable
+Maharashtra,Nanded,2_weeks_ahead,26.887301964650028,Stable,2,47,72,stable
+Maharashtra,Osmanabad,2_weeks_ahead,4.741512384715991,Stable,0,2,0,stable
+Maharashtra,Palghar,2_weeks_ahead,30.518204390990377,Stable,10,33,24,accelerating_up
+Maharashtra,Pune,2_weeks_ahead,38.00016172560873,Stable,10,112,161,accelerating_up
+Maharashtra,Ratnagiri,2_weeks_ahead,4.407056678821172,Stable,0,0,1,stable
+Maharashtra,Sangli,2_weeks_ahead,13.115791070536826,Stable,0,4,7,stable
+Maharashtra,Sindhudurg,2_weeks_ahead,14.663651796391523,Stable,0,10,11,stable
+Maharashtra,Thane,2_weeks_ahead,39.133513453892974,Stable,10,164,213,accelerating_up
+Maharashtra,Wardha,2_weeks_ahead,15.781117126393106,Stable,0,8,14,rising
+Manipur,Churachandpur,2_weeks_ahead,5.032134473308197,Stable,0,3,0,stable
+Mizoram,Aizawl,2_weeks_ahead,13.152311191634258,Stable,1,8,5,declining
+Mizoram,Kolasib,2_weeks_ahead,11.800975612382159,Stable,0,4,5,accelerating_down
+Mizoram,Lawngtlai,2_weeks_ahead,18.966482197151947,Stable,6,13,22,stable
+Mizoram,Lunglei,2_weeks_ahead,19.09565593059899,Stable,3,14,16,stable
+Mizoram,Mamit,2_weeks_ahead,12.151960652110596,Stable,0,7,7,stable
+Mizoram,Mammit,2_weeks_ahead,11.355891721465358,Stable,0,4,4,stable
+Mizoram,Saiha,2_weeks_ahead,22.678905140417985,Stable,10,6,6,accelerating_up
+NAGALAND,DIMAPUR,2_weeks_ahead,38.88488429776154,Stable,9,196,218,accelerating_up
+NAGALAND,KIPHIRE,2_weeks_ahead,30.862108256842344,Stable,5,50,34,accelerating_up
+NAGALAND,KOHIMA,2_weeks_ahead,37.908091935555795,Stable,15,80,162,accelerating_up
+NAGALAND,LONGLENG,2_weeks_ahead,25.0971692205864,Stable,2,23,22,accelerating_up
+NAGALAND,MOKOKCHUNG,2_weeks_ahead,28.538488329173152,Stable,2,34,32,accelerating_up
+NAGALAND,MON,2_weeks_ahead,37.00309148241192,Stable,15,120,114,accelerating_up
+NAGALAND,PEREN,2_weeks_ahead,39.341400139890524,Stable,9,200,272,accelerating_up
+NAGALAND,PHEK,2_weeks_ahead,27.93668510341774,Stable,2,41,120,accelerating_up
+NAGALAND,TUENSANG,2_weeks_ahead,39.10022298102416,Stable,14,131,162,accelerating_up
+NAGALAND,WOKHA,2_weeks_ahead,30.034194008528782,Stable,4,32,69,accelerating_up
+NAGALAND,ZUNHEBOTO,2_weeks_ahead,33.16469809043125,Stable,5,75,72,accelerating_up
+Nagaland,Kohima,2_weeks_ahead,16.58586388405468,Stable,0,9,15,stable
+Nagaland,Phek,2_weeks_ahead,11.580088648317814,Stable,0,5,10,declining
+Nagaland,Wokha,2_weeks_ahead,10.854857313305786,Stable,0,3,11,accelerating_down
+Nagaland,Zunheboto,2_weeks_ahead,14.58661399829729,Stable,0,7,6,rising
+ODISHA,ANUGUL,2_weeks_ahead,53.18768474509687,Stable,172,1173,1154,accelerating_down
+ODISHA,BALANGIR,2_weeks_ahead,60.80242528381166,Watchlist,278,1490,1528,accelerating_down
+ODISHA,BALESHWAR,2_weeks_ahead,64.51568417874532,Watchlist,269,1847,2186,accelerating_down
+ODISHA,BARGARH,2_weeks_ahead,57.20035710767035,Watchlist,226,1361,1328,accelerating_down
+ODISHA,BHADRAK,2_weeks_ahead,54.21316799194581,Stable,163,1344,1318,accelerating_down
+ODISHA,BOUDH,2_weeks_ahead,43.395620860313485,Stable,62,440,534,stable
+ODISHA,CUTTACK,2_weeks_ahead,65.7120188403094,Watchlist,286,1842,2456,accelerating_down
+ODISHA,DEOGARH,2_weeks_ahead,40.36755230405838,Stable,62,293,257,stable
+ODISHA,DHENKANAL,2_weeks_ahead,51.127503105379,Stable,181,999,1129,accelerating_down
+ODISHA,GAJAPATI,2_weeks_ahead,44.90394423405267,Stable,67,539,621,stable
+ODISHA,GANJAM,2_weeks_ahead,73.86604878446461,Emerging_Risk,412,3390,3739,accelerating_down
+ODISHA,JAGATSINGHAPUR,2_weeks_ahead,49.81845947670299,Stable,159,765,1159,declining
+ODISHA,JAJAPUR,2_weeks_ahead,60.07183432769878,Watchlist,238,1623,1634,accelerating_down
+ODISHA,JHARSUGUDA,2_weeks_ahead,42.674586002668946,Stable,44,477,502,stable
+ODISHA,KALAHANDI,2_weeks_ahead,54.34374377333619,Stable,144,1352,1400,accelerating_down
+ODISHA,KANDHAMAL,2_weeks_ahead,49.171287111618476,Stable,97,706,827,stable
+ODISHA,KENDRAPARA,2_weeks_ahead,56.25418505164932,Watchlist,221,1246,1360,accelerating_down
+ODISHA,KENDUJHAR,2_weeks_ahead,63.490050921057666,Watchlist,324,1753,1579,accelerating_down
+ODISHA,KHORDHA,2_weeks_ahead,64.00402272871372,Watchlist,267,1866,2191,accelerating_down
+ODISHA,KORAPUT,2_weeks_ahead,52.745294887095234,Stable,167,1211,1227,accelerating_down
+ODISHA,MALKANGIRI,2_weeks_ahead,42.284837934586754,Stable,76,325,362,stable
+ODISHA,MAYURBHANJ,2_weeks_ahead,64.6641402276058,Watchlist,238,2385,2198,accelerating_down
+ODISHA,NABARANGPUR,2_weeks_ahead,49.41125198615427,Stable,175,925,831,declining
+ODISHA,NAYAGARH,2_weeks_ahead,44.86104351343287,Stable,112,760,795,accelerating_down
+ODISHA,NUAPADA,2_weeks_ahead,47.56935802517529,Stable,75,689,739,stable
+ODISHA,PURI,2_weeks_ahead,54.58678114414381,Stable,166,1272,1418,accelerating_down
+ODISHA,RAYAGADA,2_weeks_ahead,44.80158945506256,Stable,84,919,813,declining
+ODISHA,SAMBALPUR,2_weeks_ahead,49.055759521057745,Stable,131,1104,937,accelerating_down
+ODISHA,SONEPUR,2_weeks_ahead,43.3100996052206,Stable,65,498,397,stable
+ODISHA,SUNDARGARH,2_weeks_ahead,59.90410260803717,Watchlist,203,1583,1830,accelerating_down
+Odisha,Angul,2_weeks_ahead,22.827644548067735,Stable,1,20,50,stable
+Odisha,Anugul,2_weeks_ahead,10.073527666932543,Stable,0,1,0,rising
+Odisha,Baleshwar,2_weeks_ahead,8.47386457441338,Stable,0,2,0,stable
+Odisha,Baleswar,2_weeks_ahead,10.11607785525609,Stable,0,1,4,stable
+Odisha,Boudh,2_weeks_ahead,12.552966539833024,Stable,0,5,4,stable
+Odisha,Cuttack,2_weeks_ahead,10.40225974812866,Stable,0,1,2,stable
+Odisha,Jagatsinghapur,2_weeks_ahead,11.656461747614662,Stable,0,2,4,rising
+Odisha,Jagatsinghpur,2_weeks_ahead,9.015683511123079,Stable,0,1,2,stable
+Odisha,Jajapur,2_weeks_ahead,14.024329277901822,Stable,0,7,11,stable
+Odisha,Kendrapara,2_weeks_ahead,10.357752751380833,Stable,0,3,2,stable
+Odisha,Kendujhar,2_weeks_ahead,11.485415344065498,Stable,0,2,4,stable
+Odisha,Khordha,2_weeks_ahead,8.032984009420069,Stable,0,1,0,stable
+Odisha,NUAPADA,2_weeks_ahead,9.0519898093818,Stable,0,1,1,stable
+Odisha,Nayagarh,2_weeks_ahead,8.865674276662594,Stable,0,1,0,accelerating_up
+Odisha,Nuapada,2_weeks_ahead,4.500915306332983,Stable,0,1,0,stable
+Odisha,Sambalpur,2_weeks_ahead,20.110217930221975,Stable,1,7,7,accelerating_up
+Odisha,Subarnapur,2_weeks_ahead,3.8134179385398883,Stable,0,0,0,stable
+Orissa,Anugul,2_weeks_ahead,7.563609049497576,Stable,0,0,1,stable
+Orissa,Baleshwar,2_weeks_ahead,8.826154506611797,Stable,0,0,0,stable
+Orissa,Sambalpur,2_weeks_ahead,9.0442949193011,Stable,0,3,0,stable
+PUDUCHERRY,KARAIKAL,2_weeks_ahead,37.578474899938406,Stable,19,247,326,stable
+PUDUCHERRY,MAHE,2_weeks_ahead,28.028228228964466,Stable,2,30,41,accelerating_up
+PUDUCHERRY,PONDICHERRY,2_weeks_ahead,44.94649859124208,Stable,78,1001,935,accelerating_down
+PUNJAB,AMRITSAR,2_weeks_ahead,62.23852747573355,Watchlist,201,2127,2432,accelerating_down
+PUNJAB,BARNALA,2_weeks_ahead,41.48430920556797,Stable,36,365,667,stable
+PUNJAB,BATHINDA,2_weeks_ahead,51.0618719023018,Stable,102,1103,1745,accelerating_down
+PUNJAB,FARIDKOT,2_weeks_ahead,42.42469699302935,Stable,39,422,719,stable
+PUNJAB,FATEHGARH SAHIB,2_weeks_ahead,42.3021772972266,Stable,40,356,655,stable
+PUNJAB,FAZILKA,2_weeks_ahead,45.24555898127768,Stable,80,817,1094,declining
+PUNJAB,FIROZEPUR,2_weeks_ahead,40.930368869338665,Stable,49,606,857,declining
+PUNJAB,GURDASPUR,2_weeks_ahead,51.43745708091377,Stable,136,1206,1449,accelerating_down
+PUNJAB,HOSHIARPUR,2_weeks_ahead,50.57353900399165,Stable,127,1021,1546,accelerating_down
+PUNJAB,JALANDHAR,2_weeks_ahead,56.81619172174668,Watchlist,124,1643,2215,accelerating_down
+PUNJAB,KAPURTHALA,2_weeks_ahead,42.828491687656204,Stable,83,623,1006,accelerating_down
+PUNJAB,LUDHIANA,2_weeks_ahead,70.78871199490094,Emerging_Risk,299,3569,2844,accelerating_down
+PUNJAB,MALERKOTLA,2_weeks_ahead,40.31642026180613,Stable,36,373,368,stable
+PUNJAB,MANSA,2_weeks_ahead,43.502552804881304,Stable,43,373,777,stable
+PUNJAB,MOGA,2_weeks_ahead,42.21799591840939,Stable,59,665,958,accelerating_down
+PUNJAB,PATHANKOT,2_weeks_ahead,40.380616224129575,Stable,78,547,544,declining
+PUNJAB,PATIALA,2_weeks_ahead,56.56129241167631,Watchlist,141,1526,1841,accelerating_down
+PUNJAB,RUPNAGAR,2_weeks_ahead,43.58918078085181,Stable,48,416,782,stable
+PUNJAB,S.A.S NAGAR,2_weeks_ahead,50.630581273519745,Stable,120,1633,854,accelerating_down
+PUNJAB,SANGRUR,2_weeks_ahead,46.87966892652891,Stable,84,860,1384,declining
+PUNJAB,SHAHID BHAGAT SINGH NAGAR,2_weeks_ahead,39.202595931446766,Stable,41,431,880,accelerating_down
+PUNJAB,SRI MUKTSAR SAHIB,2_weeks_ahead,42.935579464863494,Stable,56,729,1047,accelerating_down
+PUNJAB,TARN TARAN,2_weeks_ahead,43.39711135533871,Stable,72,716,996,accelerating_down
+Pondicherry,Pondicherry,2_weeks_ahead,14.234516241836015,Stable,0,8,7,stable
+Puducherry,Puducherry,2_weeks_ahead,10.82418826781941,Stable,0,4,4,declining
+Punjab,Amritsar,2_weeks_ahead,30.138863966418967,Stable,4,75,118,stable
+Punjab,Gurdaspur,2_weeks_ahead,8.388308918936591,Stable,0,1,0,stable
+Punjab,Hoshiarpur,2_weeks_ahead,23.701844522067926,Stable,1,32,44,stable
+Punjab,Jalandhar,2_weeks_ahead,40.711409878894194,Stable,15,179,242,accelerating_up
+Punjab,Ludhiana,2_weeks_ahead,25.583340848875142,Stable,1,37,15,accelerating_up
+Punjab,Moga,2_weeks_ahead,4.274672280428378,Stable,0,0,1,stable
+Punjab,SAS Nagar (Mohali),2_weeks_ahead,17.85465095666106,Stable,1,4,3,accelerating_up
+RAJASTHAN,AJMER,2_weeks_ahead,73.48807718912903,Emerging_Risk,422,3285,3151,accelerating_down
+RAJASTHAN,ALWAR,2_weeks_ahead,78.63667683189631,Emerging_Risk,685,4286,4889,accelerating_down
+RAJASTHAN,BANSWARA,2_weeks_ahead,67.24611847276338,Watchlist,335,2433,1843,accelerating_down
+RAJASTHAN,BARAN,2_weeks_ahead,64.73222421665359,Watchlist,281,1549,2788,accelerating_down
+RAJASTHAN,BARMER,2_weeks_ahead,75.16066189418423,Emerging_Risk,637,2352,4003,accelerating_down
+RAJASTHAN,BHARATPUR,2_weeks_ahead,74.03061233996235,Emerging_Risk,563,3023,2807,accelerating_down
+RAJASTHAN,BHILWARA,2_weeks_ahead,72.6272245204091,Emerging_Risk,411,3109,3369,accelerating_down
+RAJASTHAN,BIKANER,2_weeks_ahead,72.0485452260997,Emerging_Risk,436,2500,3068,accelerating_down
+RAJASTHAN,BUNDI,2_weeks_ahead,58.21055756858576,Watchlist,222,1462,1517,accelerating_down
+RAJASTHAN,CHITTORGARH,2_weeks_ahead,57.22889374746503,Watchlist,217,1755,1230,accelerating_down
+RAJASTHAN,CHURU,2_weeks_ahead,71.04852454907521,Emerging_Risk,439,1974,3226,accelerating_down
+RAJASTHAN,DAUSA,2_weeks_ahead,63.493041962105984,Watchlist,261,1651,2342,accelerating_down
+RAJASTHAN,DHOLPUR,2_weeks_ahead,59.36624188614675,Watchlist,255,1587,1298,declining
+RAJASTHAN,DUNGARPUR,2_weeks_ahead,64.07924938352429,Watchlist,280,1847,1959,accelerating_down
+RAJASTHAN,GANGANAGAR,2_weeks_ahead,66.7338597475699,Watchlist,373,1876,2366,accelerating_down
+RAJASTHAN,HANUMANGARH,2_weeks_ahead,61.11586226966112,Watchlist,208,1583,2315,accelerating_down
+RAJASTHAN,JAIPUR,2_weeks_ahead,81.7374408379776,Emerging_Risk,1131,8694,7665,accelerating_down
+RAJASTHAN,JAISALMER,2_weeks_ahead,54.52584513791486,Stable,121,839,1114,stable
+RAJASTHAN,JALORE,2_weeks_ahead,68.92399609729134,Watchlist,520,1757,2445,accelerating_down
+RAJASTHAN,JHALAWAR,2_weeks_ahead,62.9776737624358,Watchlist,302,1619,1816,accelerating_down
+RAJASTHAN,JHUNJHUNU,2_weeks_ahead,67.52230840084357,Watchlist,316,2265,2561,accelerating_down
+RAJASTHAN,JODHPUR,2_weeks_ahead,78.25870059724691,Emerging_Risk,766,3571,4535,accelerating_down
+RAJASTHAN,KARAULI,2_weeks_ahead,63.97547714722623,Watchlist,300,1907,1763,accelerating_down
+RAJASTHAN,KOTA,2_weeks_ahead,66.97283348249385,Watchlist,339,2408,1848,accelerating_down
+RAJASTHAN,NAGAUR,2_weeks_ahead,76.56277144590122,Emerging_Risk,569,3110,4928,accelerating_down
+RAJASTHAN,PALI,2_weeks_ahead,68.57191914313204,Watchlist,354,1959,3319,accelerating_down
+RAJASTHAN,PRATAPGARH,2_weeks_ahead,48.62192242622526,Stable,106,474,759,stable
+RAJASTHAN,RAJSAMAND,2_weeks_ahead,53.641287378655385,Stable,180,1234,1185,declining
+RAJASTHAN,SAWAI MADHOPUR,2_weeks_ahead,59.404245374979936,Watchlist,222,1576,1665,declining
+RAJASTHAN,SIKAR,2_weeks_ahead,71.97948587894798,Emerging_Risk,396,2818,3307,accelerating_down
+RAJASTHAN,SIROHI,2_weeks_ahead,71.5032219015523,Emerging_Risk,285,1191,1570,rising
+RAJASTHAN,TONK,2_weeks_ahead,57.87462654501776,Watchlist,180,1702,1668,accelerating_down
+RAJASTHAN,UDAIPUR,2_weeks_ahead,75.90276337705566,Emerging_Risk,583,3287,3617,accelerating_down
+Rajasthan,Alwar,2_weeks_ahead,37.16032458494121,Stable,11,107,89,accelerating_up
+Rajasthan,Banswara,2_weeks_ahead,25.431008032643753,Stable,2,15,22,accelerating_up
+Rajasthan,Bhilwara,2_weeks_ahead,14.767076768612666,Stable,0,1,2,accelerating_up
+Rajasthan,Bundi,2_weeks_ahead,8.47527240697903,Stable,0,1,1,stable
+Rajasthan,Chittaurgarh,2_weeks_ahead,6.890762166479365,Stable,0,0,1,accelerating_down
+Rajasthan,Chittorgarh,2_weeks_ahead,23.48575532007206,Stable,1,24,16,accelerating_up
+Rajasthan,Didwana-Kuchaman,2_weeks_ahead,7.4564005013863115,Stable,0,2,0,accelerating_down
+Rajasthan,Ganganagar,2_weeks_ahead,36.77509795943123,Stable,15,72,86,accelerating_up
+Rajasthan,Jaipur,2_weeks_ahead,36.64967132232182,Stable,13,83,59,accelerating_up
+Rajasthan,Jhunjhunun,2_weeks_ahead,16.803136542276462,Stable,0,14,13,stable
+Rajasthan,Khairthal-Tijara,2_weeks_ahead,16.195538032142938,Stable,0,67,1,stable
+Rajasthan,Nagaur,2_weeks_ahead,22.33704400836533,Stable,2,4,21,accelerating_up
+Rajasthan,Pratapgarh,2_weeks_ahead,42.97814057851438,Stable,37,308,218,rising
+Rajasthan,Rajsamand,2_weeks_ahead,4.968653025542538,Stable,0,1,0,stable
+Rajasthan,Sirohi,2_weeks_ahead,24.240969203900438,Stable,2,10,11,accelerating_up
+Rajasthan,Udaipur,2_weeks_ahead,24.995390380133692,Stable,3,17,19,accelerating_up
+SIKKIM,EAST DISTRICT,2_weeks_ahead,36.66614498345052,Stable,11,209,86,rising
+SIKKIM,NORTH DISTRICT,2_weeks_ahead,23.31055753669087,Stable,1,19,13,accelerating_up
+SIKKIM,PAKYONG,2_weeks_ahead,29.536760315318226,Stable,4,65,27,accelerating_up
+SIKKIM,SOUTH DISTRICT,2_weeks_ahead,32.493635141701745,Stable,4,97,42,accelerating_up
+SIKKIM,WEST DISTRICT,2_weeks_ahead,33.39698257431358,Stable,6,105,37,accelerating_up
+Sikkim,East Sikkim,2_weeks_ahead,10.209484694073987,Stable,0,2,0,stable
+Sikkim,Mangan,2_weeks_ahead,6.6288286048333,Stable,0,1,0,accelerating_down
+Sikkim,North,2_weeks_ahead,8.829630461321582,Stable,0,0,1,stable
+Sikkim,North Sikkim,2_weeks_ahead,14.040595861811088,Stable,0,1,0,accelerating_up
+TAMIL NADU,ARIYALUR,2_weeks_ahead,46.94690272817364,Stable,93,735,1241,declining
+TAMIL NADU,CHENGALPATTU,2_weeks_ahead,73.48190677252369,Emerging_Risk,362,3713,3507,accelerating_down
+TAMIL NADU,CHENNAI,2_weeks_ahead,79.3142399294869,Emerging_Risk,533,6993,6673,accelerating_down
+TAMIL NADU,COIMBATORE,2_weeks_ahead,74.72709508993167,Emerging_Risk,339,4565,4307,accelerating_down
+TAMIL NADU,CUDDALORE,2_weeks_ahead,72.1910736027731,Emerging_Risk,330,2949,4399,accelerating_down
+TAMIL NADU,DHARMAPURI,2_weeks_ahead,62.76858396373473,Watchlist,237,1379,2899,accelerating_down
+TAMIL NADU,DINDIGUL,2_weeks_ahead,66.53229375162647,Watchlist,229,2074,3582,accelerating_down
+TAMIL NADU,ERODE,2_weeks_ahead,66.92900524078674,Watchlist,226,2510,2902,accelerating_down
+TAMIL NADU,KALLAKURICHI,2_weeks_ahead,58.06963084724654,Watchlist,175,1639,1718,accelerating_down
+TAMIL NADU,KANCHIPURAM,2_weeks_ahead,55.41598371191548,Watchlist,173,1327,1430,accelerating_down
+TAMIL NADU,KANNIYAKUMARI,2_weeks_ahead,59.240608053620285,Watchlist,170,1757,1880,accelerating_down
+TAMIL NADU,KARUR,2_weeks_ahead,52.764693691018415,Stable,164,1033,1261,accelerating_down
+TAMIL NADU,KRISHNAGIRI,2_weeks_ahead,66.62171869868203,Watchlist,276,2282,2366,accelerating_down
+TAMIL NADU,MADURAI,2_weeks_ahead,73.65941031899783,Emerging_Risk,333,3815,4428,accelerating_down
+TAMIL NADU,MAYILADUTHURAI,2_weeks_ahead,48.73530159322223,Stable,98,1128,1115,accelerating_down
+TAMIL NADU,NAGAPATTINAM,2_weeks_ahead,51.23213649385164,Stable,77,808,1156,stable
+TAMIL NADU,NAMAKKAL,2_weeks_ahead,61.610517053176075,Watchlist,178,1912,2415,accelerating_down
+TAMIL NADU,PERAMBALUR,2_weeks_ahead,45.40296341153091,Stable,92,652,1072,declining
+TAMIL NADU,PUDUKKOTTAI,2_weeks_ahead,67.2045156400614,Watchlist,278,1889,3390,accelerating_down
+TAMIL NADU,RAMANATHAPURAM,2_weeks_ahead,59.207130843230594,Watchlist,167,1580,2127,accelerating_down
+TAMIL NADU,RANIPET,2_weeks_ahead,52.6007698940736,Stable,139,1047,1466,accelerating_down
+TAMIL NADU,SALEM,2_weeks_ahead,77.04249887498132,Emerging_Risk,469,4125,5485,accelerating_down
+TAMIL NADU,SIVAGANGA,2_weeks_ahead,59.195620624508656,Watchlist,173,1456,2190,accelerating_down
+TAMIL NADU,TENKASI,2_weeks_ahead,62.2955195940404,Watchlist,222,1624,2353,accelerating_down
+TAMIL NADU,THANJAVUR,2_weeks_ahead,73.07174903732212,Emerging_Risk,354,2898,4414,accelerating_down
+TAMIL NADU,THE NILGIRIS,2_weeks_ahead,48.749054378011245,Stable,68,598,1159,stable
+TAMIL NADU,THENI,2_weeks_ahead,57.41635529157147,Watchlist,133,1657,1922,accelerating_down
+TAMIL NADU,THIRUVALLUR,2_weeks_ahead,76.5718802901961,Emerging_Risk,430,4260,4980,accelerating_down
+TAMIL NADU,THIRUVARUR,2_weeks_ahead,62.10164131309995,Watchlist,200,1709,2440,accelerating_down
+TAMIL NADU,TIRUCHIRAPPALLI,2_weeks_ahead,72.71601851033711,Emerging_Risk,392,2703,3834,accelerating_down
+TAMIL NADU,TIRUNELVELI,2_weeks_ahead,63.6735710536515,Watchlist,226,1763,2615,accelerating_down
+TAMIL NADU,TIRUPATHUR,2_weeks_ahead,54.59590496215264,Stable,171,1133,1475,accelerating_down
+TAMIL NADU,TIRUPPUR,2_weeks_ahead,70.14819541082902,Emerging_Risk,257,3017,3933,accelerating_down
+TAMIL NADU,TIRUVANNAMALAI,2_weeks_ahead,68.18328913580363,Watchlist,278,2240,3136,accelerating_down
+TAMIL NADU,TUTICORIN,2_weeks_ahead,66.59141439781055,Watchlist,251,1861,3407,accelerating_down
+TAMIL NADU,VELLORE,2_weeks_ahead,58.4953662112479,Watchlist,156,1610,1997,accelerating_down
+TAMIL NADU,VILLUPURAM,2_weeks_ahead,65.23046938211901,Watchlist,258,1984,2788,accelerating_down
+TAMIL NADU,VIRUDHUNAGAR,2_weeks_ahead,65.04703886563138,Watchlist,245,2069,2319,accelerating_down
+TELANGANA,ADILABAD,2_weeks_ahead,43.51571591153863,Stable,65,875,839,accelerating_down
+TELANGANA,BHADRADRI KOTHAGUDEM,2_weeks_ahead,49.77211087400702,Stable,95,1550,943,accelerating_down
+TELANGANA,HANUMAKONDA,2_weeks_ahead,53.00765313933041,Stable,98,1915,1262,accelerating_down
+TELANGANA,HYDERABAD,2_weeks_ahead,80.75094168507522,Emerging_Risk,744,6688,7351,accelerating_down
+TELANGANA,JAGITIAL,2_weeks_ahead,48.74192661936576,Stable,122,1156,1001,accelerating_down
+TELANGANA,JANGOAN,2_weeks_ahead,43.78461640978628,Stable,44,761,448,stable
+TELANGANA,JAYASHANKAR BHUPALAPALLY,2_weeks_ahead,43.65370381011397,Stable,43,788,395,stable
+TELANGANA,JOGULAMBA GADWAL,2_weeks_ahead,50.28799247137057,Stable,71,1170,685,stable
+TELANGANA,KAMAREDDY,2_weeks_ahead,49.551095816125574,Stable,107,1146,1166,accelerating_down
+TELANGANA,KARIMNAGAR,2_weeks_ahead,48.50058961524902,Stable,81,1435,908,accelerating_down
+TELANGANA,KHAMMAM,2_weeks_ahead,55.45056078369776,Watchlist,124,2060,1325,accelerating_down
+TELANGANA,KUMURAM BHEEM ASIFABAD,2_weeks_ahead,44.04042158829006,Stable,53,1307,565,accelerating_down
+TELANGANA,MAHABUBABAD,2_weeks_ahead,44.15536543583752,Stable,66,1186,597,accelerating_down
+TELANGANA,MAHABUBNAGAR,2_weeks_ahead,53.121943704484956,Stable,148,1412,1134,accelerating_down
+TELANGANA,MANCHERIAL,2_weeks_ahead,48.597369143551354,Stable,66,1643,1010,accelerating_down
+TELANGANA,MEDAK,2_weeks_ahead,47.44321066259685,Stable,100,1026,949,accelerating_down
+TELANGANA,MEDCHAL MALKAJGIRI,2_weeks_ahead,76.92161187410365,Emerging_Risk,442,5320,4233,accelerating_down
+TELANGANA,MULUGU,2_weeks_ahead,51.796488895249155,Stable,70,810,438,accelerating_up
+TELANGANA,NAGARKURNOOL,2_weeks_ahead,49.440026733166135,Stable,113,1158,1107,accelerating_down
+TELANGANA,NALGONDA,2_weeks_ahead,58.73793280331201,Watchlist,150,1963,1906,accelerating_down
+TELANGANA,NARAYANPET,2_weeks_ahead,47.36051461374495,Stable,105,1202,775,accelerating_down
+TELANGANA,NIRMAL,2_weeks_ahead,48.341541828223754,Stable,68,1502,1036,accelerating_down
+TELANGANA,NIZAMABAD,2_weeks_ahead,59.42759894883064,Watchlist,158,1767,2272,accelerating_down
+TELANGANA,PEDDAPALLI,2_weeks_ahead,43.66402675755162,Stable,60,914,817,declining
+TELANGANA,RAJANNA SIRCILLA,2_weeks_ahead,45.31618700345313,Stable,58,654,609,stable
+TELANGANA,RANGA REDDY,2_weeks_ahead,77.52016921748717,Emerging_Risk,552,4903,3948,accelerating_down
+TELANGANA,SANGAREDDY,2_weeks_ahead,60.92172235040613,Watchlist,200,1822,1870,accelerating_down
+TELANGANA,SIDDIPET,2_weeks_ahead,52.71638060874474,Stable,111,1457,1311,declining
+TELANGANA,SURYAPET,2_weeks_ahead,50.74379133687883,Stable,78,1980,1002,accelerating_down
+TELANGANA,VIKARABAD,2_weeks_ahead,53.865994178535956,Stable,119,1898,1123,accelerating_down
+TELANGANA,WANAPARTHY,2_weeks_ahead,48.67138470509482,Stable,75,1007,548,stable
+TELANGANA,WARANGAL,2_weeks_ahead,45.123527596108595,Stable,45,905,428,stable
+TELANGANA,YADADRI BHUVANAGIRI,2_weeks_ahead,48.34650478535379,Stable,85,1403,919,accelerating_down
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DADRA AND NAGAR HAVELI,2_weeks_ahead,41.67010549623016,Stable,41,359,459,stable
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DAMAN,2_weeks_ahead,33.31535886843854,Stable,6,149,111,stable
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DIU,2_weeks_ahead,32.69652270702078,Stable,6,51,60,rising
+TRIPURA,DHALAI,2_weeks_ahead,45.99033819315726,Stable,61,880,372,stable
+TRIPURA,GOMATI,2_weeks_ahead,45.35656408858722,Stable,59,881,432,stable
+TRIPURA,KHOWAI,2_weeks_ahead,41.904491138210744,Stable,33,541,443,stable
+TRIPURA,NORTH TRIPURA,2_weeks_ahead,48.82686000746977,Stable,60,491,537,rising
+TRIPURA,SEPAHIJALA,2_weeks_ahead,44.04502340450704,Stable,90,1122,360,declining
+TRIPURA,SOUTH TRIPURA,2_weeks_ahead,54.43279547058023,Stable,95,879,536,rising
+TRIPURA,UNAKOTI,2_weeks_ahead,46.64837980303099,Stable,39,445,524,rising
+TRIPURA,WEST TRIPURA,2_weeks_ahead,44.091810048938676,Stable,86,995,724,accelerating_down
+Tamil Nadu,Chennai,2_weeks_ahead,36.80372456139015,Stable,9,110,87,accelerating_up
+Tamil Nadu,Coimbatore,2_weeks_ahead,10.331876602228379,Stable,0,3,2,stable
+Tamil Nadu,Cuddalore,2_weeks_ahead,10.160401127292827,Stable,0,4,5,declining
+Tamil Nadu,Kancheepuram,2_weeks_ahead,28.37238149506216,Stable,2,30,34,accelerating_up
+Tamil Nadu,Kanniyakumari,2_weeks_ahead,15.141004890967505,Stable,0,12,17,declining
+Tamil Nadu,Kanyakumari,2_weeks_ahead,9.960393911012673,Stable,0,2,2,stable
+Tamil Nadu,Karur,2_weeks_ahead,9.624551663900062,Stable,0,1,2,stable
+Tamil Nadu,Madurai,2_weeks_ahead,15.046163859852768,Stable,0,14,10,stable
+Tamil Nadu,Nagapattinam,2_weeks_ahead,22.178012767945276,Stable,1,8,17,accelerating_up
+Tamil Nadu,Pudukkottai,2_weeks_ahead,17.266577316018704,Stable,1,6,13,accelerating_up
+Tamil Nadu,Ramanathapuram,2_weeks_ahead,3.8273384286766,Stable,0,0,1,stable
+Tamil Nadu,Sivaganga,2_weeks_ahead,11.802628194554165,Stable,0,6,4,declining
+Tamil Nadu,Thanjavur,2_weeks_ahead,15.112146431312732,Stable,0,1,4,accelerating_up
+Tamil Nadu,The Nilgiris,2_weeks_ahead,26.622738512682222,Stable,2,14,31,accelerating_up
+Tamil Nadu,Theni,2_weeks_ahead,17.336070956895217,Stable,0,14,12,rising
+Tamil Nadu,Thiruvallur,2_weeks_ahead,4.3605958363026405,Stable,0,0,1,stable
+Tamil Nadu,Thiruvarur,2_weeks_ahead,11.87651125986269,Stable,0,5,5,stable
+Tamil Nadu,Thoothukkudi,2_weeks_ahead,9.16967215134148,Stable,0,1,0,accelerating_up
+Tamil Nadu,Tiruchirappalli,2_weeks_ahead,13.395390575527168,Stable,0,6,9,stable
+Tamil Nadu,Tirunelveli,2_weeks_ahead,24.377901717653195,Stable,2,15,13,accelerating_up
+Tamil Nadu,Tiruppur,2_weeks_ahead,8.296207222646766,Stable,0,1,0,stable
+Tamil Nadu,Tiruvallur,2_weeks_ahead,35.63217836782446,Stable,8,73,100,accelerating_up
+Tamil Nadu,Virudhunagar,2_weeks_ahead,11.538927791816324,Stable,0,4,3,stable
+Telangana,Bhadradri Kothagudem,2_weeks_ahead,8.604130970430262,Stable,0,0,0,stable
+Telangana,Hanumakonda,2_weeks_ahead,12.81755028153954,Stable,0,14,1,stable
+Telangana,Hyderabad,2_weeks_ahead,29.02171639294696,Stable,4,20,25,accelerating_up
+Telangana,Jangoan,2_weeks_ahead,18.898293210384775,Stable,0,21,6,accelerating_up
+Telangana,K.v. Rangareddy,2_weeks_ahead,24.73183201430723,Stable,2,8,20,accelerating_up
+Telangana,Khammam,2_weeks_ahead,10.753549644024028,Stable,0,3,3,accelerating_down
+Telangana,Nalgonda,2_weeks_ahead,24.842062118119763,Stable,1,15,23,accelerating_up
+Telangana,Rangareddy,2_weeks_ahead,24.229147498961172,Stable,1,42,6,accelerating_up
+Telangana,Suryapet,2_weeks_ahead,24.067787632096167,Stable,2,84,11,stable
+Telangana,Warangal,2_weeks_ahead,19.259336868157042,Stable,1,1,13,accelerating_up
+Telangana,Warangal Rural,2_weeks_ahead,27.985651894067207,Stable,3,42,13,accelerating_up
+Tripura,Gomati,2_weeks_ahead,29.617113809798425,Stable,2,38,39,accelerating_up
+Tripura,North Tripura,2_weeks_ahead,8.608382028300625,Stable,0,2,0,stable
+Tripura,Sepahijala,2_weeks_ahead,14.806199321053713,Stable,0,6,26,stable
+Tripura,South Tripura,2_weeks_ahead,31.959172188616066,Stable,3,97,31,accelerating_up
+Tripura,West Tripura,2_weeks_ahead,30.869651739275476,Stable,2,208,98,stable
+UTTAR PRADESH,AGRA,2_weeks_ahead,80.80909513892915,Emerging_Risk,844,7849,4529,accelerating_down
+UTTAR PRADESH,ALIGARH,2_weeks_ahead,78.97538804387084,Emerging_Risk,629,7214,3747,accelerating_down
+UTTAR PRADESH,AMBEDKAR NAGAR,2_weeks_ahead,65.89463619702067,Watchlist,292,3020,1724,accelerating_down
+UTTAR PRADESH,AMETHI,2_weeks_ahead,62.276230575579675,Watchlist,245,2523,1494,accelerating_down
+UTTAR PRADESH,AMROHA,2_weeks_ahead,74.42418396563286,Emerging_Risk,497,4247,2725,accelerating_down
+UTTAR PRADESH,AURAIYA,2_weeks_ahead,55.014359865337234,Watchlist,159,1833,1078,declining
+UTTAR PRADESH,AYODHYA,2_weeks_ahead,60.3994596613982,Watchlist,207,2448,1382,accelerating_down
+UTTAR PRADESH,AZAMGARH,2_weeks_ahead,77.41474370916879,Emerging_Risk,577,6210,3397,accelerating_down
+UTTAR PRADESH,BAGHPAT,2_weeks_ahead,57.694666968639716,Watchlist,164,1521,747,stable
+UTTAR PRADESH,BAHRAICH,2_weeks_ahead,78.55061592692188,Emerging_Risk,593,7468,4513,accelerating_down
+UTTAR PRADESH,BALLIA,2_weeks_ahead,72.07247290562188,Emerging_Risk,410,4002,2329,accelerating_down
+UTTAR PRADESH,BALRAMPUR,2_weeks_ahead,71.46928893334788,Emerging_Risk,420,3911,2366,accelerating_down
+UTTAR PRADESH,BANDA,2_weeks_ahead,65.00328820773709,Watchlist,255,2875,1733,accelerating_down
+UTTAR PRADESH,BARABANKI,2_weeks_ahead,72.40273991411726,Emerging_Risk,363,3831,2807,accelerating_down
+UTTAR PRADESH,BAREILLY,2_weeks_ahead,79.73579231134772,Emerging_Risk,676,8276,4103,accelerating_down
+UTTAR PRADESH,BASTI,2_weeks_ahead,70.05426667175918,Emerging_Risk,396,3346,2133,accelerating_down
+UTTAR PRADESH,BHADOHI,2_weeks_ahead,59.76188646890413,Watchlist,205,2338,1318,accelerating_down
+UTTAR PRADESH,BIJNOR,2_weeks_ahead,78.41770471712071,Emerging_Risk,560,6339,3897,accelerating_down
+UTTAR PRADESH,BUDAUN,2_weeks_ahead,68.05730874460986,Watchlist,309,3939,1830,accelerating_down
+UTTAR PRADESH,BULANDSHAHR,2_weeks_ahead,61.33924338430057,Watchlist,256,2344,1174,accelerating_down
+UTTAR PRADESH,CHANDAULI,2_weeks_ahead,60.81306830600168,Watchlist,211,2828,1323,accelerating_down
+UTTAR PRADESH,CHITRAKOOT,2_weeks_ahead,59.23232853134646,Watchlist,284,1397,1236,declining
+UTTAR PRADESH,DEORIA,2_weeks_ahead,72.8757237516678,Emerging_Risk,366,4585,2777,accelerating_down
+UTTAR PRADESH,ETAH,2_weeks_ahead,63.22570795905714,Watchlist,258,2873,1382,accelerating_down
+UTTAR PRADESH,ETAWAH,2_weeks_ahead,61.53516800287298,Watchlist,235,2098,1453,accelerating_down
+UTTAR PRADESH,FARRUKHABAD,2_weeks_ahead,59.568136851565114,Watchlist,194,2071,1387,accelerating_down
+UTTAR PRADESH,FATEHPUR,2_weeks_ahead,68.74801700155253,Watchlist,323,3973,1967,accelerating_down
+UTTAR PRADESH,FIROZABAD,2_weeks_ahead,60.557139744829,Watchlist,203,2716,1332,accelerating_down
+UTTAR PRADESH,GAUTAM BUDDHA NAGAR,2_weeks_ahead,72.11100150468229,Emerging_Risk,418,5283,1831,accelerating_down
+UTTAR PRADESH,GHAZIABAD,2_weeks_ahead,74.39820130371709,Emerging_Risk,455,6321,2369,accelerating_down
+UTTAR PRADESH,GHAZIPUR,2_weeks_ahead,72.95195117830094,Emerging_Risk,414,4246,2517,accelerating_down
+UTTAR PRADESH,GONDA,2_weeks_ahead,74.49790322255078,Emerging_Risk,469,4803,2798,accelerating_down
+UTTAR PRADESH,GORAKHPUR,2_weeks_ahead,77.42417685194765,Emerging_Risk,533,6374,3476,accelerating_down
+UTTAR PRADESH,HAMIRPUR,2_weeks_ahead,52.22498865525319,Stable,143,1499,917,declining
+UTTAR PRADESH,HAPUR,2_weeks_ahead,61.71848994638112,Watchlist,251,2145,1383,accelerating_down
+UTTAR PRADESH,HARDOI,2_weeks_ahead,77.03367390341326,Emerging_Risk,575,5007,3364,accelerating_down
+UTTAR PRADESH,HATHRAS,2_weeks_ahead,64.0256016847222,Watchlist,306,2660,1352,accelerating_down
+UTTAR PRADESH,JALAUN,2_weeks_ahead,59.91025102350969,Watchlist,197,2336,1311,accelerating_down
+UTTAR PRADESH,JAUNPUR,2_weeks_ahead,76.86929073891393,Emerging_Risk,476,6075,3492,accelerating_down
+UTTAR PRADESH,JHANSI,2_weeks_ahead,69.31580483372053,Watchlist,324,2943,2259,accelerating_down
+UTTAR PRADESH,KANNAUJ,2_weeks_ahead,60.7266865984185,Watchlist,212,2411,1389,accelerating_down
+UTTAR PRADESH,KANPUR DEHAT,2_weeks_ahead,57.97369305430863,Watchlist,200,2012,1202,accelerating_down
+UTTAR PRADESH,KANPUR NAGAR,2_weeks_ahead,77.53364059554059,Emerging_Risk,622,6779,2884,accelerating_down
+UTTAR PRADESH,KASGANJ,2_weeks_ahead,59.46600727207425,Watchlist,179,2128,1546,accelerating_down
+UTTAR PRADESH,KAUSHAMBI,2_weeks_ahead,64.317046907615,Watchlist,270,2537,1623,accelerating_down
+UTTAR PRADESH,KHERI,2_weeks_ahead,78.41749978202594,Emerging_Risk,591,6292,3814,accelerating_down
+UTTAR PRADESH,KUSHI NAGAR,2_weeks_ahead,75.29432026039974,Emerging_Risk,466,5189,2965,accelerating_down
+UTTAR PRADESH,LALITPUR,2_weeks_ahead,57.381523635368495,Watchlist,211,1599,1363,accelerating_down
+UTTAR PRADESH,LUCKNOW,2_weeks_ahead,78.19385439554016,Emerging_Risk,561,7128,3405,accelerating_down
+UTTAR PRADESH,MAHARAJGANJ,2_weeks_ahead,71.29832179479864,Emerging_Risk,395,3983,2375,accelerating_down
+UTTAR PRADESH,MAHOBA,2_weeks_ahead,57.35091016013319,Watchlist,142,1314,975,stable
+UTTAR PRADESH,MAINPURI,2_weeks_ahead,61.90766036798289,Watchlist,280,2143,1245,accelerating_down
+UTTAR PRADESH,MATHURA,2_weeks_ahead,72.61763073190455,Emerging_Risk,457,4009,2229,accelerating_down
+UTTAR PRADESH,MAU,2_weeks_ahead,66.26626606149178,Watchlist,258,3594,1809,accelerating_down
+UTTAR PRADESH,MEERUT,2_weeks_ahead,77.13867772376801,Emerging_Risk,569,6757,3138,accelerating_down
+UTTAR PRADESH,MIRZAPUR,2_weeks_ahead,68.64624532118437,Watchlist,304,3353,2229,accelerating_down
+UTTAR PRADESH,MORADABAD,2_weeks_ahead,65.398036348311,Watchlist,238,3201,1884,accelerating_down
+UTTAR PRADESH,MUZAFFARNAGAR,2_weeks_ahead,72.51147091743552,Emerging_Risk,328,5294,2775,accelerating_down
+UTTAR PRADESH,PILIBHIT,2_weeks_ahead,68.11077814762842,Watchlist,269,3218,2296,accelerating_down
+UTTAR PRADESH,PRATAPGARH,2_weeks_ahead,71.6191730582792,Emerging_Risk,393,4399,2152,accelerating_down
+UTTAR PRADESH,PRAYAGRAJ,2_weeks_ahead,78.53567214443468,Emerging_Risk,521,9018,3975,accelerating_down
+UTTAR PRADESH,RAE BARELI,2_weeks_ahead,74.76390708816402,Emerging_Risk,487,4791,2609,accelerating_down
+UTTAR PRADESH,RAMPUR,2_weeks_ahead,67.3756196541044,Watchlist,309,3403,1862,accelerating_down
+UTTAR PRADESH,SAHARANPUR,2_weeks_ahead,78.60594769587156,Emerging_Risk,605,5660,4226,accelerating_down
+UTTAR PRADESH,SAMBHAL,2_weeks_ahead,61.81588621304278,Watchlist,204,3235,1653,accelerating_down
+UTTAR PRADESH,SANT KABEER NAGAR,2_weeks_ahead,65.79335075902277,Watchlist,261,2526,1998,accelerating_down
+UTTAR PRADESH,SHAHJAHANPUR,2_weeks_ahead,73.00065318749412,Emerging_Risk,369,4483,2847,accelerating_down
+UTTAR PRADESH,SHAMLI,2_weeks_ahead,67.07034887685614,Watchlist,353,2203,1846,accelerating_down
+UTTAR PRADESH,SHRAVASTI,2_weeks_ahead,51.69298425102835,Stable,132,1702,808,declining
+UTTAR PRADESH,SIDDHARTH NAGAR,2_weeks_ahead,74.42877056926051,Emerging_Risk,488,4651,2765,accelerating_down
+UTTAR PRADESH,SITAPUR,2_weeks_ahead,79.65462218958876,Emerging_Risk,753,6488,4064,accelerating_down
+UTTAR PRADESH,SONBHADRA,2_weeks_ahead,58.17066145845447,Watchlist,172,2218,1350,accelerating_down
+UTTAR PRADESH,SULTANPUR,2_weeks_ahead,68.65206016935021,Watchlist,325,3748,1963,accelerating_down
+UTTAR PRADESH,UNNAO,2_weeks_ahead,63.57424922518025,Watchlist,248,2803,1515,accelerating_down
+UTTAR PRADESH,VARANASI,2_weeks_ahead,77.53566302627804,Emerging_Risk,504,6619,3618,accelerating_down
+UTTARAKHAND,ALMORA,2_weeks_ahead,50.46137050989077,Stable,92,978,1756,accelerating_down
+UTTARAKHAND,BAGESHWAR,2_weeks_ahead,40.542193294640015,Stable,27,309,531,stable
+UTTARAKHAND,CHAMOLI,2_weeks_ahead,43.368588587350104,Stable,61,507,1162,declining
+UTTARAKHAND,CHAMPAWAT,2_weeks_ahead,43.11846457123906,Stable,30,441,876,stable
+UTTARAKHAND,DEHRADUN,2_weeks_ahead,69.09405181841913,Watchlist,248,2588,4084,accelerating_down
+UTTARAKHAND,HARIDWAR,2_weeks_ahead,69.65253135646915,Watchlist,251,2678,7378,accelerating_down
+UTTARAKHAND,NAINITAL,2_weeks_ahead,53.80124983387474,Stable,93,1286,2344,accelerating_down
+UTTARAKHAND,PAURI GARHWAL,2_weeks_ahead,47.74678905211725,Stable,84,831,1552,accelerating_down
+UTTARAKHAND,PITHORAGARH,2_weeks_ahead,44.1336253061202,Stable,62,733,1169,accelerating_down
+UTTARAKHAND,RUDRA PRAYAG,2_weeks_ahead,42.8677436468452,Stable,45,336,716,stable
+UTTARAKHAND,TEHRI GARHWAL,2_weeks_ahead,55.83153855864595,Watchlist,154,951,2387,declining
+UTTARAKHAND,UDAM SINGH NAGAR,2_weeks_ahead,74.50305751019232,Emerging_Risk,345,3586,7871,accelerating_down
+UTTARAKHAND,UTTAR KASHI,2_weeks_ahead,52.1501854775497,Stable,70,470,919,rising
+Uttar Pradesh,Allahabad,2_weeks_ahead,34.30934808055634,Stable,9,89,36,accelerating_up
+Uttar Pradesh,Azamgarh,2_weeks_ahead,30.45063804592846,Stable,4,75,29,accelerating_up
+Uttar Pradesh,Baghpat,2_weeks_ahead,41.085854728528496,Stable,22,205,123,accelerating_up
+Uttar Pradesh,Bara Banki,2_weeks_ahead,45.80173213888538,Stable,41,439,359,accelerating_up
+Uttar Pradesh,Barabanki,2_weeks_ahead,22.846168725915113,Stable,1,30,16,rising
+Uttar Pradesh,Bareilly,2_weeks_ahead,40.491995862716045,Stable,16,205,155,accelerating_up
+Uttar Pradesh,Basti,2_weeks_ahead,36.93968153119112,Stable,15,100,66,accelerating_up
+Uttar Pradesh,Bijnor,2_weeks_ahead,30.01074548778398,Stable,2,69,43,accelerating_up
+Uttar Pradesh,Budaun,2_weeks_ahead,48.75585726144197,Stable,83,993,542,stable
+Uttar Pradesh,Bulandshahar,2_weeks_ahead,20.72852227176978,Stable,1,13,5,accelerating_up
+Uttar Pradesh,Bulandshahr,2_weeks_ahead,67.37314322230901,Watchlist,356,2869,1629,accelerating_down
+Uttar Pradesh,Faizabad,2_weeks_ahead,49.522794679481386,Stable,66,642,421,rising
+Uttar Pradesh,Farrukhabad,2_weeks_ahead,54.45176181194675,Stable,101,910,558,rising
+Uttar Pradesh,Fatehpur,2_weeks_ahead,42.60503158380007,Stable,27,320,150,accelerating_up
+Uttar Pradesh,Firozabad,2_weeks_ahead,55.29536844369393,Watchlist,115,1491,702,stable
+Uttar Pradesh,Gautam Buddha Nagar,2_weeks_ahead,31.463724432164263,Stable,6,93,9,accelerating_up
+Uttar Pradesh,Jaunpur,2_weeks_ahead,37.61271166962128,Stable,9,172,112,rising
+Uttar Pradesh,Kanpur Dehat,2_weeks_ahead,40.36907962306335,Stable,22,163,110,accelerating_up
+Uttar Pradesh,Kanpur Nagar,2_weeks_ahead,8.840442549659727,Stable,0,2,1,stable
+Uttar Pradesh,Kaushambi,2_weeks_ahead,9.573891958274526,Stable,0,2,2,stable
+Uttar Pradesh,Lucknow,2_weeks_ahead,61.20663090060484,Watchlist,225,2046,1483,accelerating_down
+Uttar Pradesh,Mainpuri,2_weeks_ahead,48.33863798239165,Stable,65,554,271,accelerating_up
+Uttar Pradesh,Mau,2_weeks_ahead,35.77291549536744,Stable,8,115,49,accelerating_up
+Uttar Pradesh,Meerut,2_weeks_ahead,7.858212639223004,Stable,0,1,0,accelerating_up
+Uttar Pradesh,Mirzapur,2_weeks_ahead,31.29320036510758,Stable,4,52,49,accelerating_up
+Uttar Pradesh,Moradabad,2_weeks_ahead,49.27477881358157,Stable,58,770,404,rising
+Uttar Pradesh,Prayagraj,2_weeks_ahead,21.22588128361524,Stable,2,25,10,rising
+Uttar Pradesh,Rampur,2_weeks_ahead,46.80647047920548,Stable,52,485,261,accelerating_up
+Uttar Pradesh,Saharanpur,2_weeks_ahead,32.65227843105729,Stable,6,47,40,accelerating_up
+Uttar Pradesh,Sambhal,2_weeks_ahead,57.44234417758089,Watchlist,244,1799,1006,accelerating_down
+Uttar Pradesh,Sant Kabir Nagar,2_weeks_ahead,37.75815940942856,Stable,12,133,72,accelerating_up
+Uttar Pradesh,Shahjahanpur,2_weeks_ahead,23.736423352978797,Stable,1,20,18,accelerating_up
+Uttar Pradesh,Sonbhadra,2_weeks_ahead,31.808003329024682,Stable,3,78,41,accelerating_up
+Uttar Pradesh,Unnao,2_weeks_ahead,58.09293361133109,Watchlist,201,2069,1138,accelerating_down
+Uttar Pradesh,Varanasi,2_weeks_ahead,24.15917745399481,Stable,0,25,21,accelerating_up
+Uttarakhand,Dehradun,2_weeks_ahead,24.934109549936384,Stable,1,22,26,accelerating_up
+Uttarakhand,Nainital,2_weeks_ahead,29.957792420868923,Stable,2,48,68,accelerating_up
+Uttarakhand,Udham Singh Nagar,2_weeks_ahead,18.13383487239181,Stable,0,4,9,accelerating_up
+WEST BENGAL,24 PARAGANAS NORTH,2_weeks_ahead,80.90451476205988,Emerging_Risk,1240,11765,3925,accelerating_down
+WEST BENGAL,24 PARAGANAS SOUTH,2_weeks_ahead,80.69736468967798,Emerging_Risk,1403,9766,3587,accelerating_down
+WEST BENGAL,ALIPURDUAR,2_weeks_ahead,57.286580549158835,Watchlist,219,2242,781,accelerating_down
+WEST BENGAL,BANKURA,2_weeks_ahead,70.9210311504623,Emerging_Risk,420,3942,1984,accelerating_down
+WEST BENGAL,BIRBHUM,2_weeks_ahead,73.83243285650408,Emerging_Risk,622,5076,1994,accelerating_down
+WEST BENGAL,COOCHBEHAR,2_weeks_ahead,61.67365000285126,Watchlist,257,3580,888,accelerating_down
+WEST BENGAL,DARJEELING,2_weeks_ahead,57.148899837372795,Watchlist,195,2362,836,accelerating_down
+WEST BENGAL,DINAJPUR DAKSHIN,2_weeks_ahead,58.180173109237245,Watchlist,219,2509,845,accelerating_down
+WEST BENGAL,DINAJPUR UTTAR,2_weeks_ahead,72.67309340728906,Emerging_Risk,642,4720,1432,accelerating_down
+WEST BENGAL,HOOGHLY,2_weeks_ahead,76.92276863694073,Emerging_Risk,627,6521,2621,accelerating_down
+WEST BENGAL,HOWRAH,2_weeks_ahead,70.61291919039466,Emerging_Risk,423,4336,1630,accelerating_down
+WEST BENGAL,JALPAIGURI,2_weeks_ahead,61.31917756832029,Watchlist,238,3048,1004,accelerating_down
+WEST BENGAL,JHARGRAM,2_weeks_ahead,52.172971412527644,Stable,188,1453,708,accelerating_down
+WEST BENGAL,KALIMPONG,2_weeks_ahead,43.11518373253807,Stable,50,778,200,stable
+WEST BENGAL,KOLKATA,2_weeks_ahead,71.10603544018672,Emerging_Risk,401,4859,1810,accelerating_down
+WEST BENGAL,MALDAH,2_weeks_ahead,75.5404924495777,Emerging_Risk,703,5927,2027,accelerating_down
+WEST BENGAL,MEDINIPUR EAST,2_weeks_ahead,74.32959998052259,Emerging_Risk,555,4358,2366,accelerating_down
+WEST BENGAL,MEDINIPUR WEST,2_weeks_ahead,74.17758230337414,Emerging_Risk,528,4945,2144,accelerating_down
+WEST BENGAL,MURSHIDABAD,2_weeks_ahead,80.06669422325206,Emerging_Risk,1095,8956,3383,accelerating_down
+WEST BENGAL,NADIA,2_weeks_ahead,73.94845440118493,Emerging_Risk,576,6934,1862,accelerating_down
+WEST BENGAL,PASCHIM BARDHAMAN,2_weeks_ahead,63.28255514042837,Watchlist,233,3379,1274,accelerating_down
+WEST BENGAL,PURBA BARDHAMAN,2_weeks_ahead,75.61526739311654,Emerging_Risk,565,5412,2483,accelerating_down
+WEST BENGAL,PURULIA,2_weeks_ahead,73.05840020572178,Emerging_Risk,494,5141,1953,accelerating_down
+West Bengal,Bankura,2_weeks_ahead,41.13855809431495,Stable,27,232,111,accelerating_up
+West Bengal,Barddhaman,2_weeks_ahead,41.07086286366995,Stable,25,238,107,rising
+West Bengal,Bardhaman,2_weeks_ahead,25.08647354094277,Stable,1,32,10,accelerating_up
+West Bengal,Birbhum,2_weeks_ahead,35.068272099402016,Stable,15,89,47,accelerating_up
+West Bengal,Cooch Behar,2_weeks_ahead,35.633818518422935,Stable,10,129,28,accelerating_up
+West Bengal,Dakshin Dinajpur,2_weeks_ahead,31.304568220735522,Stable,6,99,31,accelerating_up
+West Bengal,Darjeeling,2_weeks_ahead,39.50637675793219,Stable,19,170,77,accelerating_up
+West Bengal,Darjiling,2_weeks_ahead,12.204551841076468,Stable,0,9,3,stable
+West Bengal,East Midnapore,2_weeks_ahead,15.6726450727613,Stable,0,22,7,stable
+West Bengal,Haora,2_weeks_ahead,16.531780283816584,Stable,0,29,6,stable
+West Bengal,Hooghly,2_weeks_ahead,40.19541558818935,Stable,20,202,92,accelerating_up
+West Bengal,Howrah,2_weeks_ahead,26.767747490786647,Stable,3,60,21,rising
+West Bengal,Hugli,2_weeks_ahead,5.710064544830259,Stable,0,2,0,declining
+West Bengal,Jalpaiguri,2_weeks_ahead,32.16393105855613,Stable,6,86,35,rising
+West Bengal,Jhargram,2_weeks_ahead,13.250021229881217,Stable,0,9,3,stable
+West Bengal,Kalimpong,2_weeks_ahead,13.584230201744898,Stable,1,6,2,stable
+West Bengal,Koch Bihar,2_weeks_ahead,27.937205203399024,Stable,2,66,9,accelerating_up
+West Bengal,Kolkata,2_weeks_ahead,8.627144407242891,Stable,0,2,0,stable
+West Bengal,Malda,2_weeks_ahead,32.37100450519048,Stable,6,139,38,rising
+West Bengal,Maldah,2_weeks_ahead,21.21275888274203,Stable,1,56,14,stable
+West Bengal,Murshidabad,2_weeks_ahead,40.970110099504794,Stable,47,567,162,stable
+West Bengal,Nadia,2_weeks_ahead,7.70817775645981,Stable,0,2,0,accelerating_down
+West Bengal,North 24 Parganas,2_weeks_ahead,23.341823563242116,Stable,1,23,6,accelerating_up
+West Bengal,North Dinajpur,2_weeks_ahead,17.489493967198,Stable,0,10,0,accelerating_up
+West Bengal,North Twenty Four Parganas,2_weeks_ahead,3.9692888033928035,Stable,0,1,0,stable
+West Bengal,Paschim Bardhaman,2_weeks_ahead,19.300669055334104,Stable,0,13,2,accelerating_up
+West Bengal,Paschim Medinipur,2_weeks_ahead,38.76747530058517,Stable,16,145,72,accelerating_up
+West Bengal,Purba Bardhaman,2_weeks_ahead,22.733200688891614,Stable,2,17,3,accelerating_up
+West Bengal,Purba Medinipur,2_weeks_ahead,35.09485122956867,Stable,8,72,73,accelerating_up
+West Bengal,Purulia,2_weeks_ahead,11.411868955909267,Stable,0,5,3,stable
+West Bengal,Puruliya,2_weeks_ahead,34.99483834893325,Stable,12,129,39,accelerating_up
+West Bengal,South 24 Parganas,2_weeks_ahead,38.02543506132404,Stable,18,150,50,accelerating_up
+West Bengal,South Dinajpur,2_weeks_ahead,14.814991392595859,Stable,0,21,5,declining
+West Bengal,South Twenty Four Parganas,2_weeks_ahead,20.606843599932315,Stable,0,16,5,accelerating_up
+West Bengal,Uttar Dinajpur,2_weeks_ahead,42.12242558156886,Stable,32,284,91,accelerating_up
+West Bengal,West Midnapore,2_weeks_ahead,4.563904831941687,Stable,0,1,0,stable
+Westbengal,Hooghly,2_weeks_ahead,9.198713627979236,Stable,0,3,0,stable

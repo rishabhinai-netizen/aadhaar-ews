@@ -1,0 +1,5 @@
+issue_type,description,records_affected,resolution,impact
+State Name Variations,"Inconsistent state naming (e.g., ""Andaman & Nicobar"" vs ""Andaman and Nicobar Islands"")",All records,PIN-based canonicalization using official postal directory,Reduced state count from 55-71 to standardized 36 states
+District Name Variations,Inconsistent district naming and spellings,All records,PIN-based canonicalization using official postal directory,Standardized district names across all datasets
+Missing PIN Codes,Some records had PIN codes not in reference directory,841-966 records per dataset,Retained original Aadhaar state/district for missing PINs,Preserved data completeness while maintaining accuracy
+Geographic Accuracy,Improved map rendering and spatial analysis reliability,All visualizations,Single source of truth for state/district reduces join failures,Enabled accurate choropleth maps and spatial queries

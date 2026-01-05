@@ -1,0 +1,8 @@
+state,district,severity_score,dominant_signal
+Rajasthan,Jaipur,41.953238260036095,Demographic
+Bihar,Bhojpur,40.35895792010759,Demographic
+Madhya Pradesh,Sidhi,39.50620331968072,Demographic
+Punjab,SAS Nagar (Mohali),38.65344871925384,Demographic
+Rajasthan,Nagaur,38.15291884509024,Demographic
+Tripura,South Tripura,35.90980348309781,Demographic
+Madhya Pradesh,Rajgarh,34.11160356480636,Demographic
